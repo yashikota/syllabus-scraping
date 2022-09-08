@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "syllabus-scraping"
+version = "0.1.0"
+description = ""
+authors = ["kota <52403688+yashikota@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+httpx = "^0.23.0"
+playwright = "^1.25.2"
+pandas = "^1.4.3"
+beautifulsoup4 = "^4.11.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.8.0"
+isort = "^5.10.1"
+mypy = "^0.971"
+Flake8-pyproject = "^1.1.0.post0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
