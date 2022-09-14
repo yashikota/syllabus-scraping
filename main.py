@@ -10,8 +10,11 @@ def main():
     # スクレイピング
     scraped_data: dict = syllabus.Scraping().scraper(YEAR, data)
 
-    # 出力
+    # 通常出力
     syllabus.output(YEAR, scraped_data)
+
+    # テーブル用の出力
+    syllabus.table_output(YEAR, scraped_data)
 
 
 if __name__ == "__main__":

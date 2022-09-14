@@ -31,6 +31,33 @@ def output(year: str, data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
+def table_output(year: str, data: dict) -> None:
+    """
+    table表示用に出力
+    """
+    result = list()
+
+    # ソート
+    data: dict = dict(sorted(data.items()))
+    # 抽出
+    for key in data.keys():
+        result.append({
+            "lecture_title": data[key]["lecture_title"],
+            "year": data[key]["year"],
+            "credit": data[key]["credit"],
+            "term": data[key]["term"],
+            "person": data[key]["person"],
+            "numbering": data[key]["numbering"],
+            "department": data[key]["department"],
+            "dow": data[key]["dow"],
+            "period": data[key]["period"],
+            "url": data[key]["url"]
+        })
+    # 保存
+    with open(f"./data/{year}table.json", "w") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+
+
 def normalize(enter: str) -> str:
     """
     文字列を正規化
