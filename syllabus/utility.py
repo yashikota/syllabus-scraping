@@ -6,13 +6,13 @@ import unicodedata
 import urllib.request
 
 
-def get_department_url(year: str) -> list:
+def get_data(year: str) -> list:
     """
-    学部・学科とURLのリストを取得
+    学部/学科,URL,曜日,時限のリストを取得
     """
     return (
         urllib.request.urlopen(
-            f"https://raw.githubusercontent.com/oit-tools/syllabus-extract/master/data/{year}/department_url.csv"
+            f"https://raw.githubusercontent.com/oit-tools/syllabus-extract/master/data/{year}.csv"
         )
         .read()
         .decode("utf-8")
