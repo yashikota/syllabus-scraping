@@ -4,14 +4,12 @@
 import re
 import unicodedata
 
-from syllabus.dow_period import DowPeriod
-
 
 class Parser:
     def __init__(self):
         pass
 
-    def main(self, enter: str, department: str, url: str) -> dict:
+    def main(self, enter: str, department: str, url: str, dow: str, period: str) -> dict:
         try:
             """
             csvを読み込み、jsonに変換
@@ -34,6 +32,8 @@ class Parser:
                 "numbering",
                 "department",
                 "url",
+                "dow",
+                "period",
                 "aim",
                 "cs",
                 "spiral",
@@ -59,10 +59,11 @@ class Parser:
             value_list.append(department)  # 学科名追加
             value_list.append(url)  # URL追加
 
-            # 曜日と時限
-            # dow, period = DowPeriod().main(numbering, value_list[1])
-            # value_list.append(dow)
-            # value_list.append(period)
+            # 曜日
+            value_list.append(dow.replace("@", " "))
+
+            # 時限
+            value_list.append(period.replace("@", " "))
 
             # 授業のねらい・概要
             value_list.append(enter[2][0])

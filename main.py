@@ -4,14 +4,14 @@ import syllabus
 def main():
     YEAR: str = "2022"
 
-    # 学部・学科とURLのリストを取得
-    department_url_list: list[str] = list(syllabus.get_department_url(YEAR))
+    # 学部/学科,URL,曜日,時限のリストを取得
+    data: list[str] = list(syllabus.get_data(YEAR))
 
     # スクレイピング
-    data: dict = syllabus.Scraping().scraper(YEAR, department_url_list)
+    scraped_data: dict = syllabus.Scraping().scraper(YEAR, data)
 
     # 出力
-    syllabus.output(YEAR, data)
+    syllabus.output(YEAR, scraped_data)
 
 
 if __name__ == "__main__":

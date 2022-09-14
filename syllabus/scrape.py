@@ -12,13 +12,14 @@ from syllabus.utility import normalize
 
 class Scraping:
     def __init__(self):
+        self._data = None
         self._limit: int = 5
         self._year: str = ""
-        self._data: dict = dict()
+        self._scraped_data: dict = dict()
 
-    async def _get(self, client, department_url, semaphore):
+    async def _get(self, client, data, semaphore):
         async with semaphore:
-            department, url = department_url.split(",")
+            department, url, dow, period = data.split(",")
             try:
                 res = await client.get(url, timeout=10.0)
                 print(department, url, res.status_code)
@@ -29,21 +30,19 @@ class Scraping:
                 res_csv = converter(normalize(res.text))
                 if len(res_csv) < 6:
                     return
-                self._data.update(Parser().main(res_csv, department, url))
+                self._scraped_data.update(Parser().main(res_csv, department, url, dow, period))
 
-    async def _request(self, department_url_list: list[str]):
+    async def _request(self):
         semaphore = asyncio.Semaphore(self._limit)
         client = httpx.AsyncClient()
 
-        tasks = [
-            self._get(client, department_url, semaphore)
-            for department_url in department_url_list
-        ]
+        tasks = [self._get(client, data, semaphore) for data in self._data]
         await asyncio.gather(*tasks)
         await client.aclose()
 
-    def scraper(self, year: str, department_url_list: list[str]):
+    def scraper(self, year: str, data: list[str]):
         self._year = year
+        self._data = data
 
-        asyncio.run(self._request(department_url_list))
-        return self._data
+        asyncio.run(self._request())
+        return self._scraped_data
