@@ -1,6 +1,7 @@
 name: "scraping"
 on:
-  push
+  schedule:
+    - cron: "0 10 * * 0" #毎週日曜日 19時に実行(JST)
 
 env:
   PR_TITLE: $(date +"%Y/%m/%d")_Syllabus_Data_Update
@@ -44,7 +45,7 @@ jobs:
       - name: Add and Commit
         uses: EndBug/add-and-commit@v9
         with:
-          branch: ${{ env.CURRENT_DATETIME }}_syllabus_data_update
+          new_branch: ${{ env.CURRENT_DATETIME }}_syllabus_data_update
           message: Syllabus Data Update
           add: .
 
