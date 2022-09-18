@@ -10,7 +10,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 600
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
@@ -25,8 +25,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git switch -c update_${{ env.CURRENT_DATETIME }}
-          git push -u origin update_${{ env.CURRENT_DATETIME }}
+          git switch -c ${{ env.CURRENT_DATETIME }}_syllabus_data_update
+          git push -u origin ${{ env.CURRENT_DATETIME }}_syllabus_data_update
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -45,14 +45,14 @@ jobs:
       - name: Add and Commit
         uses: EndBug/add-and-commit@v9
         with:
-          branch: ${{ env.CURRENT_DATETIME }}_syllabus_data_update
+          new_branch: ${{ env.CURRENT_DATETIME }}_syllabus_data_update
           message: Syllabus Data Update
           add: .
 
       - name: Create pull request
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: update_${{ env.CURRENT_DATETIME }}
+          source_branch: ${{ env.CURRENT_DATETIME }}_syllabus_data_update
           destination_branch: ${{ env.DEST_BRANCH }}
           pr_title: ${{ env.PR_TITLE }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
