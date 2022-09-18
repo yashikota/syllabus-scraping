@@ -14260,6 +14260,18 @@
         "year": "4",
         "credit": "4",
         "term": "通年(卒研)",
+        "person": "塚本 勝俊",
+        "numbering": "1BAK02T0",
+        "department": "IS",
+        "dow": "その他",
+        "period": "その他",
+        "url": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=1BAK02T0&value(crclumcd)=10201200"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "year": "4",
+        "credit": "4",
+        "term": "通年(卒研)",
         "person": "福澤 寧子",
         "numbering": "1BAK02T1",
         "department": "IS",
@@ -40212,6 +40224,18 @@
         "url": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C015G0&value(crclumcd)=10201200"
     },
     {
+        "lecture_title": "物理学実験ロ組",
+        "year": "1",
+        "credit": "2",
+        "term": "前期",
+        "person": "藤元 章 原田 義之 梅澤 憲司 寒川 尚人 小川 洋子",
+        "numbering": "A3C015G1",
+        "department": "OMY2",
+        "dow": "水曜日 水曜日",
+        "period": "3時限 4時限",
+        "url": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C015G1&value(crclumcd)=10201200"
+    },
+    {
         "lecture_title": "物理学実験",
         "year": "1",
         "credit": "2",
@@ -50500,7 +50524,7 @@
         "year": "1",
         "credit": "2",
         "term": "後期",
-        "person": "藤元 章 藤田 浩彦 山口 雅弘 蓑茂 工将 吉川 大幹 中田 祥之",
+        "person": "藤元 章 藤田 浩彦 山口 雅弘 蓑茂 工将 吉川 大幹 中井 創",
         "numbering": "E4C011M0",
         "department": "UMD",
         "dow": "月曜日 月曜日",
