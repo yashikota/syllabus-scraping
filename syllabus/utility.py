@@ -43,15 +43,14 @@ def table_output(year: str, data: dict) -> None:
     for key in data.keys():
         result.append({
             "lecture_title": data[key]["lecture_title"],
-            "year": data[key]["year"],
-            "credit": data[key]["credit"],
-            "term": data[key]["term"],
-            "person": data[key]["person"],
-            "numbering": data[key]["numbering"],
             "department": data[key]["department"],
+            "year": data[key]["year"],
+            "term": data[key]["term"],
             "dow": data[key]["dow"],
             "period": data[key]["period"],
-            "url": data[key]["url"]
+            "credit": data[key]["credit"],
+            "person": data[key]["person"],
+            "numbering": data[key]["numbering"],
         })
     # 保存
     with open(f"./data/{year}table.json", "w") as f:
