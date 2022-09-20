@@ -2,27 +2,28 @@
 データを解析
 """
 import re
-import unicodedata
 
 
 class Parser:
     def __init__(self):
-        pass
+        self.values = list()
+        self.text = ""
+        self.correction = 0  # 順番補正用
 
-    def main(self, enter: str, department: str, url: str, dow: str, period: str) -> dict:
+    def main(
+        self, enter: str, department: str, url: str, dow: str, period: str
+    ) -> dict:
+        """csvを読み込み、jsonに変換"""
+        self.text = "\n".join(enter[1])
+
         try:
-            """
-            csvを読み込み、jsonに変換
-            """
+            lectures = list()
+            theme = list()
+            content = list()
+            preparation = list()
+            result = dict()
 
-            value_list = list()
-            lecture_list = list()
-            lecture_value_list = list()
-            lecture_key_list = list()
-            big_dict = dict()
-            correction = 0
-            text = "\n".join(enter[1])
-            key_list = [
+            keys = [
                 "lecture_title",
                 "lecture_title_en",
                 "year",
@@ -37,6 +38,9 @@ class Parser:
                 "aim",
                 "cs",
                 "spiral",
+                "theme",
+                "content",
+                "preparation",
                 "target",
                 "method",
                 "basis",
@@ -47,134 +51,92 @@ class Parser:
                 "practice",
             ]
 
-            # 講義名等
+            # 講義名等を取得
             for i in range(len(enter[0])):
-                value_list.append(enter[0][i])
-            value_list[2] = str(value_list[2]).replace("年次", "")  # 年次を削除
-            value_list[5] = (re.sub("\(.+?\)", "", value_list[5])).replace(
-                "  ", " "
-            )  # 担当者名のよみがな削除
-            numbering = re.search(r"\w{8}(?=&value)", url).group()  # 講義コードをurlから抽出
-            value_list.append(numbering)
-            value_list.append(department)  # 学科名追加
-            value_list.append(url)  # URL追加
-
+                self.values.append(enter[0][i])
+            # 年次を削除
+            self.values[2] = str(self.values[2]).replace("年次", "")
+            # 担当者名のよみがな削除
+            self.values[5] = re.sub(r"\(.+?\)", "", self.values[5]).replace("  ", " ")
+            # 講義コードをurlから抽出し、追加
+            numbering = re.search(r"\w{8}(?=&value)", url).group()
+            self.values.append(numbering)
+            # 学科追加
+            self.values.append(department)
+            # URL追加
+            self.values.append(url)
             # 曜日
-            value_list.append(dow.replace("@", " "))
-
+            self.values.append(dow.replace("@", " "))
             # 時限
-            value_list.append(period.replace("@", " "))
-
-            # 授業のねらい・概要
-            value_list.append(enter[2][0])
-
+            self.values.append(period.replace("@", " "))
+            # 授業のねらい/概要
+            self.values.append(enter[2][0])
             # CSコース
-            if "CSコース" in text:
-                spiral = re.search(r"CSコース,(.*)", text).group(1)
-                if len(spiral) > 0:
-                    value_list.append(spiral)
-                    correction += 1  # 参照のズレを補正
-                else:
-                    value_list.append("記載なし")
-            else:
-                value_list.append("記載なし")
-
+            self.process("CSコース")
             # スパイラル型教育
-            if "スパイラル型教育" in text:
-                spiral = re.search(r"スパイラル型教育,(.*)", text).group(1)
-                if len(spiral) > 0:
-                    value_list.append(spiral)
-                    correction += 1
-                else:
-                    value_list.append("記載なし")
-            else:
-                value_list.append("記載なし")
-
+            self.process("スパイラル型教育")
             # 授業計画
-            for i in range(1, (len(enter[3 + correction]))):
-                lecture_list.append(str(enter[3 + correction][i]).split(","))  # ","で分割
-            for i in range(len(lecture_list)):
-                # テーマ
-                if len(lecture_list[i][1]) > 0:
-                    lecture_key_list.append("theme" + str(i + 1))
-                    lecture_value_list.append(lecture_list[i][1])
-                # 内容・方法等
-                if len(lecture_list[i][2]) > 0:
-                    lecture_key_list.append("content" + str(i + 1))
-                    lecture_value_list.append(lecture_list[i][2])
-                # 予習/復習
-                if len(lecture_list[i][3]) > 0:
-                    lecture_key_list.append("preparation" + str(i + 1))
-                    lecture_value_list.append(lecture_list[i][3])
-
+            for i in range(1, (len(enter[3 + self.correction]))):
+                lectures.append(str(enter[3 + self.correction][i]).split(","))
+            for i in range(len(lectures)):
+                if len(lectures[i][1]) > 0:
+                    theme.append(lectures[i][1])
+                if len(lectures[i][2]) > 0:
+                    content.append(lectures[i][2])
+                if len(lectures[i][3]) > 0:
+                    preparation.append(lectures[i][3])
+            # テーマ
+            self.lecture(theme)
+            # 内容/方法
+            self.lecture(content)
+            # 予習/復習
+            self.lecture(preparation)
             # 目標、評価方法、評価基準
             for i in range(3):
-                value_list.append(enter[(4 + i) + correction][0])
-
+                self.values.append(enter[(4 + i) + self.correction][0])
             # 教科書
-            if "教科書" in text:
-                textbook = re.search(r"教科書,(.*)", text).group(1)
-                if len(textbook) > 0:
-                    value_list.append(
-                        (re.search(r"出版社名(.*)", text).group(1)).replace("  ", "")
-                    )
-                    correction += 1  # 参照のズレを補正
-                else:
-                    value_list.append("記載なし")
-            else:
-                value_list.append("記載なし")
-
+            self.process("教科書")
             # 参考書
-            if "参考書" in text:
-                reference_book = re.search(r"参考書,(.*)", text).group(1)
-                if len(reference_book) > 0:
-                    value_list.append(
-                        (re.search(r"出版社名(.*)", text).group(1)).replace("  ", "")
-                    )
-                    correction += 1
-                else:
-                    value_list.append("記載なし")
-            else:
-                value_list.append("記載なし")
-
+            self.process("参考書")
             # 受講心得
-            value_list.append(enter[7 + correction][0])
-
+            self.values.append(enter[7 + self.correction][0])
             # オフィスアワー
-            value_list.append(enter[8 + correction][0])
-
+            self.values.append(enter[8 + self.correction][0])
             # 実践的教育
-            if len(enter[9 + correction]) > 0:
-                value_list.append(enter[9 + correction][0])
+            if len(enter[9 + self.correction]) > 0:
+                self.values.append(enter[9 + self.correction][0])
             else:
-                value_list.append("記載なし")
-
-            # 正規化とダブルクオーテーションの削除
-            for i in range(len(value_list)):
-                value_list[i] = unicodedata.normalize(
-                    "NFKC", str(value_list[i])
-                ).replace('"', "")
-            for i in range(len(lecture_value_list)):
-                lecture_value_list[i] = unicodedata.normalize(
-                    "NFKC", str(lecture_value_list[i])
-                ).replace('"', "")
-
+                self.values.append("記載なし")
             # 辞書に変換
-            df_dict = dict(zip(key_list, value_list))
-            lecture_dict = dict(zip(lecture_key_list, lecture_value_list))
-            if lecture_list != []:
-                df_dict.update(lecture_dict)
-            else:
-                df_dict.update(
-                    {"theme1": "記載なし", "content1": "記載なし", "preparation1": "記載なし"}
-                )
+            result.update({numbering: dict(zip(keys, self.values))})
 
-            # 辞書に追加
-            big_dict.update({numbering: df_dict})
-
-            return big_dict
+            return result
 
         except Exception as e:
             with open("error.log", "w") as f:
                 f.write(f"{e}\n{url}")
-            return big_dict
+
+            return result
+
+    def process(self, search):
+        """CSコース、スパイラル型教育、教科書、参考書用の処理"""
+        if search in self.text:
+            word = re.search(rf"{search},(.*)", self.text).group(1)
+            if len(word) > 0:
+                if search == "CSコース" or search == "スパイラル型教育":
+                    self.values.append(word)
+                elif search == "教科書" or search == "参考書":
+                    self.values.append(
+                        re.search(r"出版社名(.*)", self.text).group(1).replace("  ", "")
+                    )
+                self.correction += 1
+            else:
+                self.values.append("記載なし")
+        else:
+            self.values.append("記載なし")
+
+    def lecture(self, name):
+        if len(name) > 0:
+            self.values.append(name)
+        else:
+            self.values.append("記載なし")

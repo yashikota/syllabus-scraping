@@ -41,17 +41,19 @@ def table_output(year: str, data: dict) -> None:
     data: dict = dict(sorted(data.items()))
     # 抽出
     for key in data.keys():
-        result.append({
-            "lecture_title": data[key]["lecture_title"],
-            "department": data[key]["department"],
-            "year": data[key]["year"],
-            "term": data[key]["term"],
-            "dow": data[key]["dow"],
-            "period": data[key]["period"],
-            "credit": data[key]["credit"],
-            "person": data[key]["person"],
-            "numbering": data[key]["numbering"],
-        })
+        result.append(
+            {
+                "lecture_title": data[key]["lecture_title"],
+                "department": data[key]["department"],
+                "year": data[key]["year"],
+                "term": data[key]["term"],
+                "dow": data[key]["dow"],
+                "period": data[key]["period"],
+                "credit": data[key]["credit"],
+                "person": data[key]["person"],
+                "numbering": data[key]["numbering"],
+            }
+        )
     # 保存
     with open(f"./data/{year}table.json", "w") as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
@@ -61,4 +63,4 @@ def normalize(enter: str) -> str:
     """
     文字列を正規化
     """
-    return unicodedata.normalize("NFKC", enter)
+    return unicodedata.normalize("NFKC", enter).replace(",", "、").replace("□", "")

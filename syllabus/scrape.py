@@ -13,7 +13,7 @@ from syllabus.utility import normalize
 class Scraping:
     def __init__(self):
         self._data = None
-        self._limit: int = 5
+        self._limit: int = 10
         self._year: str = ""
         self._scraped_data: dict = dict()
 
@@ -26,11 +26,13 @@ class Scraping:
             except Exception as e:
                 print(f"Error: {e}, {url}")
                 res = await client.get(url, timeout=10.0)
-            else:
+            finally:
                 res_csv = converter(normalize(res.text))
                 if len(res_csv) < 6:
                     return
-                self._scraped_data.update(Parser().main(res_csv, department, url, dow, period))
+                self._scraped_data.update(
+                    Parser().main(res_csv, department, url, dow, period)
+                )
 
     async def _request(self):
         semaphore = asyncio.Semaphore(self._limit)
