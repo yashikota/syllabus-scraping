@@ -18,9 +18,9 @@ class Parser:
 
         try:
             lectures = list()
-            theme = list()
-            content = list()
-            preparation = list()
+            themes = list()
+            contents = list()
+            preparations = list()
             result = dict()
 
             keys = [
@@ -38,9 +38,9 @@ class Parser:
                 "aim",
                 "cs",
                 "spiral",
-                "theme",
-                "content",
-                "preparation",
+                "themes",
+                "contents",
+                "preparations",
                 "target",
                 "method",
                 "basis",
@@ -80,17 +80,17 @@ class Parser:
                 lectures.append(str(enter[3 + self.correction][i]).split(","))
             for i in range(len(lectures)):
                 if len(lectures[i][1]) > 0:
-                    theme.append(lectures[i][1])
+                    themes.append(lectures[i][1])
                 if len(lectures[i][2]) > 0:
-                    content.append(lectures[i][2])
+                    contents.append(lectures[i][2])
                 if len(lectures[i][3]) > 0:
-                    preparation.append(lectures[i][3])
+                    preparations.append(lectures[i][3])
             # テーマ
-            self.lecture(theme)
+            self.lecture(themes)
             # 内容/方法
-            self.lecture(content)
+            self.lecture(contents)
             # 予習/復習
-            self.lecture(preparation)
+            self.lecture(preparations)
             # 目標、評価方法、評価基準
             for i in range(3):
                 self.values.append(enter[(4 + i) + self.correction][0])

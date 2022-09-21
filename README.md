@@ -18,9 +18,9 @@
 |aim|ねらい|
 |cs|CSコース|
 |spiral|スパイラル型教育|
-|theme|授業テーマ|
-|content|授業内容/方法等|
-|preparation|予習/復習|
+|themes|授業テーマ|
+|contents|授業内容/方法等|
+|preparations|予習/復習|
 |target|目標|
 |method|評価方法|
 |basis|評価基準|
