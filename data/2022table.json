@@ -5269,17 +5269,6 @@
         "numbering": "15AA01B0"
     },
     {
-        "lecture_title": "電子情報通信基礎演習(再履修)",
-        "department": "XD",
-        "year": "1",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "1",
-        "person": "奥 宏史",
-        "numbering": "15AA01C0"
-    },
-    {
         "lecture_title": "電子情報通信実験IA組",
         "department": "XD",
         "year": "2",
@@ -7401,17 +7390,6 @@
         "credit": "2",
         "person": "宮田 敏行",
         "numbering": "17CC01A0"
-    },
-    {
-        "lecture_title": "応用微生物学(再履修)",
-        "department": "U",
-        "year": "3",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2",
-        "person": "大森 勇門",
-        "numbering": "17CC02A0"
     },
     {
         "lecture_title": "機能性食品学",
@@ -25234,17 +25212,6 @@
         "numbering": "20AA01B0"
     },
     {
-        "lecture_title": "電子情報システム基礎演習(再履修)",
-        "department": "D",
-        "year": "1",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "1",
-        "person": "奥 宏史",
-        "numbering": "20AA01C0"
-    },
-    {
         "lecture_title": "電子情報システム実験IA組",
         "department": "D",
         "year": "2",
@@ -30162,17 +30129,6 @@
         "numbering": "50CE3200"
     },
     {
-        "lecture_title": "建築インターンシップI(構造系)",
-        "department": "YAC",
-        "year": "1",
-        "term": "集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4",
-        "person": "宮内 靖昌",
-        "numbering": "50CE3300"
-    },
-    {
         "lecture_title": "建築インターンシップI(意匠系)",
         "department": "YAC",
         "year": "1",
@@ -30215,17 +30171,6 @@
         "credit": "3",
         "person": "寺地 洋之",
         "numbering": "50DA1100"
-    },
-    {
-        "lecture_title": "建築インターンシップI(構造系)",
-        "department": "YAC",
-        "year": "1",
-        "term": "集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4",
-        "person": "宮内 靖昌",
-        "numbering": "50DE1900"
     },
     {
         "lecture_title": "半導体エレクトロニクス特論",
@@ -48257,17 +48202,6 @@
         "numbering": "MPAF02S0"
     },
     {
-        "lecture_title": "研究基礎",
-        "department": "YP",
-        "year": "1",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1",
-        "person": "長谷川 光一",
-        "numbering": "MPAF02T0"
-    },
-    {
         "lecture_title": "特別研究",
         "department": "YP",
         "year": "2",
@@ -48530,17 +48464,6 @@
         "credit": "2",
         "person": "中嶋 隆宣 宮澤 博久",
         "numbering": "MPCA09M0"
-    },
-    {
-        "lecture_title": "著作権法特論",
-        "department": "YP",
-        "year": "1",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2",
-        "person": "髙橋 寛",
-        "numbering": "MPCA10A0"
     },
     {
         "lecture_title": "著作権法特論【MR】",
