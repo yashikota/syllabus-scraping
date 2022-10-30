@@ -5269,17 +5269,6 @@
         "numbering": "15AA01B0"
     },
     {
-        "lecture_title": "電子情報通信基礎演習(再履修)",
-        "department": "XD",
-        "year": "1",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "1",
-        "person": "奥 宏史",
-        "numbering": "15AA01C0"
-    },
-    {
         "lecture_title": "電子情報通信実験IA組",
         "department": "XD",
         "year": "2",
@@ -7282,83 +7271,6 @@
         "numbering": "17CA34A0"
     },
     {
-        "lecture_title": "バイオメカニクス",
-        "department": "U",
-        "year": "3",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "2",
-        "person": "中村 友浩",
-        "numbering": "17CA35A0"
-    },
-    {
-        "lecture_title": "分析化学",
-        "department": "U",
-        "year": "3",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2",
-        "person": "外波 弘之",
-        "numbering": "17CA36A0"
-    },
-    {
-        "lecture_title": "医工学概論",
-        "department": "U",
-        "year": "1",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "1時限",
-        "credit": "2",
-        "person": "藤里 俊哉 宇戸 禎仁 外波 弘之 長森 英二 﨑山 亮一 藤田 英俊",
-        "numbering": "17CB01A0"
-    },
-    {
-        "lecture_title": "高分子工学",
-        "department": "U",
-        "year": "2",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "2",
-        "person": "藤里 俊哉",
-        "numbering": "17CB02A0"
-    },
-    {
-        "lecture_title": "人工臓器",
-        "department": "U",
-        "year": "3",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "1時限",
-        "credit": "2",
-        "person": "﨑山 亮一 外波 弘之",
-        "numbering": "17CB03A0"
-    },
-    {
-        "lecture_title": "生体システム工学",
-        "department": "U",
-        "year": "3",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2",
-        "person": "藤田 英俊",
-        "numbering": "17CB04A0"
-    },
-    {
-        "lecture_title": "生体物性工学",
-        "department": "U",
-        "year": "2",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "1時限",
-        "credit": "2",
-        "person": "﨑山 亮一",
-        "numbering": "17CB05A0"
-    },
-    {
         "lecture_title": "生命計測工学",
         "department": "U",
         "year": "2",
@@ -7401,17 +7313,6 @@
         "credit": "2",
         "person": "宮田 敏行",
         "numbering": "17CC01A0"
-    },
-    {
-        "lecture_title": "応用微生物学(再履修)",
-        "department": "U",
-        "year": "3",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2",
-        "person": "大森 勇門",
-        "numbering": "17CC02A0"
     },
     {
         "lecture_title": "機能性食品学",
@@ -11073,7 +10974,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1",
-        "person": "佐野 睦夫",
+        "person": "佐野 睦夫 荒木 英夫 井垣 宏 井上 裕美子 大井 翔 尾崎 敦夫 樫原 茂 鎌倉 良成 河合 紀彦 河北 真宏 小谷 直樹 酒澤 茂之 坂平 文博 椎原 正次 神納 貴生 杉川 智 須永 宏 須山 敬之 平 博順 地嵜 頌子 中西 知嘉子 西口 敏司 布村 泰浩 橋本 渉 平山 亮 本田 澄 水谷 泰治 皆川 健多郎 村木 祐太 矢野 浩二朗 山内 雪路 山田 隆亮 横川 美和",
         "numbering": "1ACH11A0"
     },
     {
@@ -11249,7 +11150,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1",
-        "person": "佐野 睦夫",
+        "person": "佐野 睦夫 荒木 英夫 井垣 宏 井上 裕美子 大井 翔 尾崎 敦夫 樫原 茂 鎌倉 良成 河合 紀彦 河北 真宏 小谷 直樹 酒澤 茂之 坂平 文博 椎原 正次 神納 貴生 杉川 智 須永 宏 須山 敬之 平 博順 地嵜 頌子 中西 知嘉子 西口 敏司 布村 泰浩 橋本 渉 平山 亮 本田 澄 水谷 泰治 皆川 健多郎 村木 祐太 矢野 浩二朗 山内 雪路 山田 隆亮 横川 美和",
         "numbering": "1ACM41A0"
     },
     {
@@ -14692,7 +14593,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1",
-        "person": "佐野 睦夫",
+        "person": "佐野 睦夫 荒木 英夫 井垣 宏 井上 裕美子 大井 翔 尾崎 敦夫 樫原 茂 鎌倉 良成 河合 紀彦 河北 真宏 小谷 直樹 酒澤 茂之 坂平 文博 椎原 正次 神納 貴生 杉川 智 須永 宏 須山 敬之 平 博順 地嵜 頌子 中西 知嘉子 西口 敏司 布村 泰浩 橋本 渉 平山 亮 本田 澄 水谷 泰治 皆川 健多郎 村木 祐太 矢野 浩二朗 山内 雪路 山田 隆亮 横川 美和",
         "numbering": "1BCH11A0"
     },
     {
@@ -18366,7 +18267,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1",
-        "person": "佐野 睦夫",
+        "person": "佐野 睦夫 荒木 英夫 井垣 宏 井上 裕美子 大井 翔 尾崎 敦夫 樫原 茂 鎌倉 良成 河合 紀彦 河北 真宏 小谷 直樹 酒澤 茂之 坂平 文博 椎原 正次 神納 貴生 杉川 智 須永 宏 須山 敬之 平 博順 地嵜 頌子 中西 知嘉子 西口 敏司 布村 泰浩 橋本 渉 平山 亮 本田 澄 水谷 泰治 皆川 健多郎 村木 祐太 矢野 浩二朗 山内 雪路 山田 隆亮 横川 美和",
         "numbering": "1CCH11A0"
     },
     {
@@ -21963,7 +21864,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1",
-        "person": "佐野 睦夫",
+        "person": "佐野 睦夫 荒木 英夫 井垣 宏 井上 裕美子 大井 翔 尾崎 敦夫 樫原 茂 鎌倉 良成 河合 紀彦 河北 真宏 小谷 直樹 酒澤 茂之 坂平 文博 椎原 正次 神納 貴生 杉川 智 須永 宏 須山 敬之 平 博順 地嵜 頌子 中西 知嘉子 西口 敏司 布村 泰浩 橋本 渉 平山 亮 本田 澄 水谷 泰治 皆川 健多郎 村木 祐太 矢野 浩二朗 山内 雪路 山田 隆亮 横川 美和",
         "numbering": "1DCH11A0"
     },
     {
@@ -22117,7 +22018,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1",
-        "person": "佐野 睦夫",
+        "person": "佐野 睦夫 荒木 英夫 井垣 宏 井上 裕美子 大井 翔 尾崎 敦夫 樫原 茂 鎌倉 良成 河合 紀彦 河北 真宏 小谷 直樹 酒澤 茂之 坂平 文博 椎原 正次 神納 貴生 杉川 智 須永 宏 須山 敬之 平 博順 地嵜 頌子 中西 知嘉子 西口 敏司 布村 泰浩 橋本 渉 平山 亮 本田 澄 水谷 泰治 皆川 健多郎 村木 祐太 矢野 浩二朗 山内 雪路 山田 隆亮 横川 美和",
         "numbering": "1DCM41A0"
     },
     {
@@ -25232,17 +25133,6 @@
         "credit": "1",
         "person": "奥 宏史",
         "numbering": "20AA01B0"
-    },
-    {
-        "lecture_title": "電子情報システム基礎演習(再履修)",
-        "department": "D",
-        "year": "1",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "1",
-        "person": "奥 宏史",
-        "numbering": "20AA01C0"
     },
     {
         "lecture_title": "電子情報システム実験IA組",
@@ -30162,17 +30052,6 @@
         "numbering": "50CE3200"
     },
     {
-        "lecture_title": "建築インターンシップI(構造系)",
-        "department": "YAC",
-        "year": "1",
-        "term": "集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4",
-        "person": "宮内 靖昌",
-        "numbering": "50CE3300"
-    },
-    {
         "lecture_title": "建築インターンシップI(意匠系)",
         "department": "YAC",
         "year": "1",
@@ -30215,17 +30094,6 @@
         "credit": "3",
         "person": "寺地 洋之",
         "numbering": "50DA1100"
-    },
-    {
-        "lecture_title": "建築インターンシップI(構造系)",
-        "department": "YAC",
-        "year": "1",
-        "term": "集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4",
-        "person": "宮内 靖昌",
-        "numbering": "50DE1900"
     },
     {
         "lecture_title": "半導体エレクトロニクス特論",
@@ -48257,17 +48125,6 @@
         "numbering": "MPAF02S0"
     },
     {
-        "lecture_title": "研究基礎",
-        "department": "YP",
-        "year": "1",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1",
-        "person": "長谷川 光一",
-        "numbering": "MPAF02T0"
-    },
-    {
         "lecture_title": "特別研究",
         "department": "YP",
         "year": "2",
@@ -48530,17 +48387,6 @@
         "credit": "2",
         "person": "中嶋 隆宣 宮澤 博久",
         "numbering": "MPCA09M0"
-    },
-    {
-        "lecture_title": "著作権法特論",
-        "department": "YP",
-        "year": "1",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2",
-        "person": "髙橋 寛",
-        "numbering": "MPCA10A0"
     },
     {
         "lecture_title": "著作権法特論【MR】",
