@@ -1,4 +1,5 @@
 name: "scraping"
+
 on:
   schedule:
     - cron: "0 10 * * 0" #毎週日曜日 19時に実行(JST)
