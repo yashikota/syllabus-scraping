@@ -57,7 +57,7 @@ class Parser:
             # 年次を削除
             self.values[2] = str(self.values[2]).replace("年次", "")
             # 担当者名のよみがな削除
-            self.values[5] = re.sub(r"\(.+?\)", "", self.values[5]).replace("  ", " ")
+            self.values[5] = re.sub(r"\(.+?\)", "", self.values[5]).replace("  ", ",")
             # 講義コードをurlから抽出し、追加
             numbering = re.search(r"\w{8}(?=&value)", url).group()
             self.values.append(numbering)
