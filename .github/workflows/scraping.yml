@@ -5,7 +5,6 @@ on:
     - cron: "0 10 * * 0" #毎週日曜日 19時に実行(JST)
 
 env:
-  PR_TITLE: $(date +"%Y/%m/%d")_Syllabus_Data_Update
   DEST_BRANCH: master
 
 jobs:
@@ -55,5 +54,5 @@ jobs:
         with:
           source_branch: ${{ env.CURRENT_DATETIME }}_syllabus_data_update
           destination_branch: ${{ env.DEST_BRANCH }}
-          pr_title: ${{ env.PR_TITLE }}
+          pr_title: ${{ env.CURRENT_DATETIMEE }}_Syllabus_Data_Update
           github_token: ${{ secrets.GITHUB_TOKEN }}
