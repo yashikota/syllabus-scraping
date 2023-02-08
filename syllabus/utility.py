@@ -63,4 +63,19 @@ def normalize(enter: str) -> str:
     """
     文字列を正規化
     """
-    return unicodedata.normalize("NFKC", enter).replace(",", "、").replace("□", "")
+    return new_line(
+        unicodedata.normalize("NFKC", enter)
+        .replace(",", "、")
+        .replace("□", "")
+        .replace("\t", "")
+        .replace('"', "")
+    )
+
+
+def new_line(enter: str) -> str:
+    """
+    <BR>を\\nに変換
+    """
+    while enter.find("<BR><BR>") != -1:
+        enter = enter.replace("<BR><BR>", "<BR>")
+    return enter.replace("<BR>", "\\n")

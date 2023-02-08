@@ -51,8 +51,7 @@ class Parser:
             ]
 
             # 講義名等を取得
-            for i in range(len(enter[0])):
-                self.values.append(enter[0][i])
+            self.values.extend([enter[0][i] for i in range(len(enter[0]))])
             # 年次を削除
             self.values[2] = str(self.values[2]).replace("年次", "")
             # 担当者名のよみがな削除
@@ -91,8 +90,7 @@ class Parser:
             # 予習/復習
             self.lecture(preparations)
             # 目標、評価方法、評価基準
-            for i in range(3):
-                self.values.append(enter[(4 + i) + self.correction][0])
+            self.values.extend([enter[4 + i + self.correction][0] for i in range(3)])
             # 教科書
             self.process("教科書")
             # 参考書
@@ -120,14 +118,15 @@ class Parser:
         """
         CSコース、スパイラル型教育、教科書、参考書用の処理
         """
-        if search in self.text:
-            word = re.search(rf"{search},(.*)", self.text).group(1)
+        text = self.text.replace("\\n", "")
+        if search in text:
+            word = re.search(rf"{search},(.*)", text).group(1)
             if len(word) > 0:
                 if search == "CSコース" or search == "スパイラル型教育":
                     self.values.append(word)
                 elif search == "教科書" or search == "参考書":
                     self.values.append(
-                        re.search(r"出版社名(.*)", self.text).group(1).replace("  ", "")
+                        re.search(r"出版社名(.*)", text).group(1).replace("  ", "")
                     )
                 self.correction += 1
             else:
