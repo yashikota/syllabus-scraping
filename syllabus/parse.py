@@ -19,10 +19,7 @@ class Parser:
         self.text = "\n".join(enter[1])
 
         try:
-            lectures = list()
-            themes = list()
-            contents = list()
-            preparations = list()
+            lectures, themes, contents, preparations = list(), list(), list(), list()
             result = dict()
 
             keys = [
@@ -112,12 +109,11 @@ class Parser:
             # 辞書に変換
             result.update({numbering: dict(zip(keys, self.values))})
 
-            return result
-
         except Exception as e:
             with open("error.log", "w") as f:
                 f.write(f"{e}\n{url}")
 
+        finally:
             return result
 
     def process(self, search):
