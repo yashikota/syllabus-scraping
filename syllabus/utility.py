@@ -63,4 +63,4 @@ def normalize(enter: str) -> str:
     """
     文字列を正規化
     """
-    return unicodedata.normalize("NFKC", enter).replace(",", "、").replace("□", "")
+    return unicodedata.normalize("NFKC", enter).replace(",", "、").replace("□", "").replace("<BR>", "\\n").replace("\\n\\n", "\\n").replace("\\n\\n\\n", "\\n")
