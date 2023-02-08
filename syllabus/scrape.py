@@ -15,23 +15,25 @@ class Scraping:
         self._data = None
         self._limit: int = 10
         self._year: str = ""
+        self._timeout: int = 10.0
+        self._invalid_data: int = 6
         self._scraped_data: dict = dict()
 
     async def _get(self, client, data, semaphore):
         async with semaphore:
             department, url, dow, period = data.split(",")
             try:
-                res = await client.get(url, timeout=10.0)
+                res = await client.get(url, timeout=self._timeout)
                 print(department, url, res.status_code)
             except Exception as e:
                 print(f"Error: {e}, {url}")
-                res = await client.get(url, timeout=10.0)
+                res = await client.get(url, timeout=self._timeout)
             finally:
-                res_csv = converter(normalize(res.text))
-                if len(res_csv) < 6:
+                csv = converter(normalize(res.text))
+                if len(csv) < self._invalid_data:
                     return
                 self._scraped_data.update(
-                    Parser().main(res_csv, department, url, dow, period)
+                    Parser().main(csv, department, url, dow, period)
                 )
 
     async def _request(self):
