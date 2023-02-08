@@ -13,7 +13,9 @@ class Parser:
     def main(
         self, enter: str, department: str, url: str, dow: str, period: str
     ) -> dict:
-        """csvを読み込み、jsonに変換"""
+        """
+        csvを読み込み、jsonに変換
+        """
         self.text = "\n".join(enter[1])
 
         try:
@@ -119,7 +121,9 @@ class Parser:
             return result
 
     def process(self, search):
-        """CSコース、スパイラル型教育、教科書、参考書用の処理"""
+        """
+        CSコース、スパイラル型教育、教科書、参考書用の処理
+        """
         if search in self.text:
             word = re.search(rf"{search},(.*)", self.text).group(1)
             if len(word) > 0:

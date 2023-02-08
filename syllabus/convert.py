@@ -5,12 +5,16 @@ import pandas
 
 
 def dataframe(enter: str) -> pandas.DataFrame:
-    """htmlを読み込み、DataFrameに変換"""
+    """
+    htmlを読み込み、DataFrameに変換
+    """
     return pandas.read_html(enter, encoding="utf-8")
 
 
 def csv(enter: pandas.DataFrame) -> list[str]:
-    """DataFrameをcsvに変換"""
+    """
+    DataFrameをcsvに変換
+    """
     dfs: list[str] = list()
 
     if len(enter) > 2:
