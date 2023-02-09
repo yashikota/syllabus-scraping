@@ -64,9 +64,9 @@ class Parser:
             # URL追加
             self.values.append(url)
             # 曜日
-            self.values.append(dow.replace("@", " "))
+            self.values.append(dow)
             # 時限
-            self.values.append(period.replace("@", " "))
+            self.values.append(period)
             # 授業のねらい/概要
             self.values.append(enter[2][0])
             # CSコース
