@@ -11,7 +11,14 @@ class Parser:
         self.correction = 0  # 順番補正用
 
     def main(
-        self, enter: str, department: str, url: str, dow: str, period: str
+        self,
+        enter: str,
+        department: str,
+        url: str,
+        dow: str,
+        period: str,
+        is_textbook: bool,
+        is_reference_book: bool,
     ) -> dict:
         """
         csvを読み込み、jsonに変換
@@ -70,9 +77,9 @@ class Parser:
             # 授業のねらい/概要
             self.values.append(enter[2][0])
             # CSコース
-            self.process("CSコース")
+            self.cs_spiral("CSコース")
             # スパイラル型教育
-            self.process("スパイラル型教育")
+            self.cs_spiral("スパイラル型教育")
             # 授業計画
             for i in range(1, (len(enter[3 + self.correction]))):
                 lectures.append(str(enter[3 + self.correction][i]).split(","))
@@ -92,9 +99,15 @@ class Parser:
             # 目標、評価方法、評価基準
             self.values.extend([enter[4 + i + self.correction][0] for i in range(3)])
             # 教科書
-            self.process("教科書")
+            if is_textbook:
+                self.textbook_reference_book(enter[7 + self.correction][1:])
+            else:
+                self.values.append("記載なし")
             # 参考書
-            self.process("参考書")
+            if is_reference_book:
+                self.textbook_reference_book(enter[7 + self.correction][1:])
+            else:
+                self.values.append("記載なし")
             # 受講心得
             self.values.append(enter[7 + self.correction][0])
             # オフィスアワー
@@ -114,27 +127,41 @@ class Parser:
         finally:
             return result
 
-    def process(self, search):
+    def cs_spiral(self, search_word):
         """
-        CSコース、スパイラル型教育、教科書、参考書用の処理
+        CSコース、スパイラル型教育用の処理
         """
         text = self.text.replace("\\n", "")
-        if search in text:
-            word = re.search(rf"{search},(.*)", text).group(1)
+        if search_word in text:
+            word = re.search(rf"{search_word},(.*)", text).group(1)
             if len(word) > 0:
-                if search == "CSコース" or search == "スパイラル型教育":
-                    self.values.append(word)
-                elif search == "教科書" or search == "参考書":
-                    self.values.append(
-                        re.search(r"出版社名(.*)", text).group(1).replace("  ", "")
-                    )
+                self.values.append(word)
                 self.correction += 1
             else:
                 self.values.append("記載なし")
         else:
             self.values.append("記載なし")
 
+    def textbook_reference_book(self, enter):
+        """
+        教科書、参考書用の処理
+        """
+        result = list()
+
+        for i in range(len(enter)):
+            result.append(enter[i].split(",")[1:])
+        for i in range(len(result)):
+            for j in range(len(result[i])):
+                if len(result[i][j]) == 0:
+                    result[i][j] = "記載なし"
+
+        self.correction += 1
+        self.values.append(result)
+
     def lecture(self, name):
+        """
+        授業計画用の処理
+        """
         if len(name) > 0:
             self.values.append(name)
         else:
