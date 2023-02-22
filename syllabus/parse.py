@@ -62,7 +62,7 @@ class Parser:
             # 単位を付与
             self.values[3] += "単位"
             # 担当者名のよみがな削除
-            self.values[5] = re.sub(r"\(.+?\)", "", self.values[5]).replace("  ", ",")
+            self.values[5] = re.sub(r"\(.+?\)", "", self.values[5]).replace("  ", ", ")
             # 講義コードをurlから抽出し、追加
             numbering = re.search(r"\w{8}(?=&value)", url).group()
             self.values.append(numbering)
