@@ -11953,7 +11953,7 @@
         "dow": "月曜日\\n月曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "須永 宏, 尾花 将輝, 鎌倉 快之, 本田 澄, 新規採用教員",
+        "person": "須永 宏, 尾花 将輝, 鎌倉 快之, 本田 澄, 宮本 俊幸",
         "numbering": "1BAH07A0"
     },
     {
@@ -13812,7 +13812,7 @@
         "dow": "月曜日\\n月曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "須永 宏, 尾花 将輝, 鎌倉 快之, 本田 澄, 新規採用教員",
+        "person": "須永 宏, 尾花 将輝, 鎌倉 快之, 本田 澄, 宮本 俊幸",
         "numbering": "1BAN07A0"
     },
     {
@@ -14241,7 +14241,7 @@
         "dow": "火曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1BCA09A0"
     },
     {
@@ -14560,7 +14560,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1BCG04A0"
     },
     {
@@ -14604,7 +14604,7 @@
         "dow": "水曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1BCG09A0"
     },
     {
@@ -14692,7 +14692,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1BCL20A0"
     },
     {
@@ -14780,7 +14780,7 @@
         "dow": "水曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1BCM21A0"
     },
     {
@@ -17926,7 +17926,7 @@
         "dow": "火曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1CCA09A0"
     },
     {
@@ -21149,7 +21149,7 @@
         "dow": "月曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1DBA03A0"
     },
     {
@@ -21567,7 +21567,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1DCA09A0"
     },
     {
@@ -21864,7 +21864,7 @@
         "dow": "金曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1DCG04A0"
     },
     {
@@ -22040,7 +22040,7 @@
         "dow": "金曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1DCM20A0"
     },
     {
@@ -24196,7 +24196,7 @@
         "dow": "月曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1FBA03A0"
     },
     {
@@ -24449,7 +24449,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1FCA09A0"
     },
     {
@@ -24636,7 +24636,7 @@
         "dow": "金曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "新規採用教員",
+        "person": "宮本 俊幸",
         "numbering": "1FCM20A0"
     },
     {
@@ -40067,28 +40067,6 @@
         "year": "1年次",
         "term": "前期",
         "dow": "月曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C004C0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C004D0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "月曜日",
         "period": "4時限",
         "credit": "1単位",
         "person": "アンドリュー メロウ",
@@ -40110,28 +40088,6 @@
         "department": "情報科学部 共通科目",
         "year": "1年次",
         "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C004G0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C004H0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
         "dow": "木曜日",
         "period": "3時限",
         "credit": "1単位",
@@ -40144,76 +40100,10 @@
         "year": "1年次",
         "term": "前期",
         "dow": "木曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C004J0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C004K0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C004L0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
         "period": "4時限",
         "credit": "1単位",
         "person": "アンドリュー メロウ",
         "numbering": "B1C004M0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C004N0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C004P0"
-    },
-    {
-        "lecture_title": "口語英語Ia",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C004Q0"
     },
     {
         "lecture_title": "口語英語Ib",
@@ -40243,28 +40133,6 @@
         "year": "1年次",
         "term": "後期",
         "dow": "月曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C005C0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C005D0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "月曜日",
         "period": "4時限",
         "credit": "1単位",
         "person": "アンドリュー メロウ",
@@ -40286,28 +40154,6 @@
         "department": "情報科学部 共通科目",
         "year": "1年次",
         "term": "後期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C005G0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C005H0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
         "dow": "木曜日",
         "period": "3時限",
         "credit": "1単位",
@@ -40320,76 +40166,10 @@
         "year": "1年次",
         "term": "後期",
         "dow": "木曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C005J0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C005K0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C005L0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
         "period": "4時限",
         "credit": "1単位",
         "person": "アンドリュー メロウ",
         "numbering": "B1C005M0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ガブリエル ポーラス",
-        "numbering": "B1C005N0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C005P0"
-    },
-    {
-        "lecture_title": "口語英語Ib",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "アルーンドレー ピノル",
-        "numbering": "B1C005Q0"
     },
     {
         "lecture_title": "英語による情報技術II",
@@ -40649,28 +40429,6 @@
         "department": "情報科学部 共通科目",
         "year": "2年次",
         "term": "前期",
-        "dow": "火曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C009A0"
-    },
-    {
-        "lecture_title": "口語英語IIa",
-        "department": "情報科学部 共通科目",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "5時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C009B0"
-    },
-    {
-        "lecture_title": "口語英語IIa",
-        "department": "情報科学部 共通科目",
-        "year": "2年次",
-        "term": "前期",
         "dow": "金曜日",
         "period": "3時限",
         "credit": "1単位",
@@ -40687,28 +40445,6 @@
         "credit": "1単位",
         "person": "アンドリュー メロウ",
         "numbering": "B1C009D0"
-    },
-    {
-        "lecture_title": "口語英語IIb",
-        "department": "情報科学部 共通科目",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C010A0"
-    },
-    {
-        "lecture_title": "口語英語IIb",
-        "department": "情報科学部 共通科目",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "5時限",
-        "credit": "1単位",
-        "person": "ステファニー ベリー",
-        "numbering": "B1C010B0"
     },
     {
         "lecture_title": "口語英語IIb",
