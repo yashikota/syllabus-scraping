@@ -81,15 +81,11 @@ class Parser:
             # スパイラル型教育
             self.cs_spiral("スパイラル型教育")
             # 授業計画
-            for i in range(1, (len(enter[3 + self.correction]))):
-                lectures.append(str(enter[3 + self.correction][i]).split(","))
-            for i in range(len(lectures)):
-                if len(lectures[i][1]) > 0:
-                    themes.append(lectures[i][1])
-                if len(lectures[i][2]) > 0:
-                    contents.append(lectures[i][2])
-                if len(lectures[i][3]) > 0:
-                    preparations.append(lectures[i][3])
+            for lecture in enter[3 + self.correction][1:]:
+                lecture_info = [info.strip() for info in lecture.split(",")]
+                themes.append(lecture_info[1] if lecture_info[1] else "記載なし")
+                contents.append(lecture_info[2] if lecture_info[2] else "記載なし")
+                preparations.append(lecture_info[3] if lecture_info[3] else "記載なし")
             # テーマ
             self.lecture(themes)
             # 内容/方法
