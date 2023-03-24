@@ -2,7 +2,7 @@ import syllabus
 
 
 def main():
-    YEAR: str = "2022"
+    YEAR: str = "2023"
 
     # 学部/学科,URL,曜日,時限のリストを取得
     data: list[str] = list(syllabus.get_data(YEAR))
