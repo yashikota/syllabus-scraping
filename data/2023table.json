@@ -24060,7 +24060,7 @@
         "lecture_title": "建築設計マネジメント(後半)",
         "department": "工学研究科 建築・都市デザイン工学専攻",
         "year": "1年次",
-        "term": "前期(前半)",
+        "term": "前期(後半)",
         "dow": "木曜日",
         "period": "5時限",
         "credit": "1単位",
@@ -24071,7 +24071,7 @@
         "lecture_title": "建築工事監理実習(前半)",
         "department": "工学研究科 建築・都市デザイン工学専攻",
         "year": "1年次",
-        "term": "後期",
+        "term": "後期(前半)",
         "dow": "土曜日\\n土曜日\\n土曜日",
         "period": "3時限\\n4時限\\n5時限",
         "credit": "1単位",
@@ -26983,6 +26983,149 @@
         "numbering": "A1C002B2"
     },
     {
+        "lecture_title": "ベーシック・イングリッシュbB2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "瀧川 宏樹",
+        "numbering": "A1C002B3"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbA1組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "金 幸月",
+        "numbering": "A1C002C0"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbA2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "安藤 優",
+        "numbering": "A1C002C1"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbB1組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "寺田 由香",
+        "numbering": "A1C002C2"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbB2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "松吉 翔也",
+        "numbering": "A1C002C3"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュb1組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "瀧川 宏樹",
+        "numbering": "A1C002D0"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュb2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "大塚 生子",
+        "numbering": "A1C002D1"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュb3組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "長谷川 順子",
+        "numbering": "A1C002D2"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュb1組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "木曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "瀧川 宏樹",
+        "numbering": "A1C002F0"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュb2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "木曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "尾田 知子",
+        "numbering": "A1C002F1"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュb3組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "木曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "椋平 淳",
+        "numbering": "A1C002F2"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbA1組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "金 幸月",
+        "numbering": "A1C002G0"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbA2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "安藤 優",
+        "numbering": "A1C002G1"
+    },
+    {
         "lecture_title": "ベーシック・イングリッシュbB1組",
         "department": "工学部 キャリア形成の基礎",
         "year": "1年次",
@@ -26992,6 +27135,28 @@
         "credit": "1単位",
         "person": "寺田 由香",
         "numbering": "A1C002G2"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbB2組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "松吉 翔也",
+        "numbering": "A1C002G3"
+    },
+    {
+        "lecture_title": "ベーシック・イングリッシュbイ組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "3時限",
+        "credit": "1単位",
+        "person": "大塚 生子",
+        "numbering": "A1C002H0"
     },
     {
         "lecture_title": "ベーシック・イングリッシュbロ組",
@@ -27005,6 +27170,17 @@
         "numbering": "A1C002H1"
     },
     {
+        "lecture_title": "ベーシック・イングリッシュbイ組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "3時限",
+        "credit": "1単位",
+        "person": "鈴嶌 梓",
+        "numbering": "A1C002J0"
+    },
+    {
         "lecture_title": "ベーシック・イングリッシュbロ組",
         "department": "工学部 キャリア形成の基礎",
         "year": "1年次",
@@ -27016,6 +27192,17 @@
         "numbering": "A1C002J1"
     },
     {
+        "lecture_title": "オーラル・コミュニケーションIa1組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "金曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "未定",
+        "numbering": "A1C003A0"
+    },
+    {
         "lecture_title": "オーラル・コミュニケーションIa2組",
         "department": "工学部 キャリア形成の基礎",
         "year": "1年次",
@@ -27025,6 +27212,17 @@
         "credit": "1単位",
         "person": "未定",
         "numbering": "A1C003A1"
+    },
+    {
+        "lecture_title": "オーラル・コミュニケーションIa3組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "金曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "未定",
+        "numbering": "A1C003A2"
     },
     {
         "lecture_title": "オーラル・コミュニケーションIaA1組",
@@ -42720,8 +42918,85 @@
         "dow": "その他",
         "period": "その他",
         "credit": "4単位",
+        "person": "甲野 正道",
+        "numbering": "MPAF03A0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "小林 昭寛",
+        "numbering": "MPAF03B0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
         "person": "杉浦 淳",
         "numbering": "MPAF03C0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "内藤 浩樹",
+        "numbering": "MPAF03F0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "三浦 武範",
+        "numbering": "MPAF03H0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "榎本 吉孝",
+        "numbering": "MPAF03K0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "大塚 理彦",
+        "numbering": "MPAF03N0"
+    },
+    {
+        "lecture_title": "特別研究",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "通年(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "村川 一雄",
+        "numbering": "MPAF03P0"
     },
     {
         "lecture_title": "特別研究",
@@ -42766,6 +43041,17 @@
         "credit": "4単位",
         "person": "長谷川 光一",
         "numbering": "MPAF03T0"
+    },
+    {
+        "lecture_title": "特別研究(秋入学生用)",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "2年次",
+        "term": "前期(特別研究)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "大塚 理彦",
+        "numbering": "MPAF03Z1"
     },
     {
         "lecture_title": "特許法・実用新案法要論I",
@@ -42865,6 +43151,17 @@
         "credit": "2単位",
         "person": "五丁 龍志, 山本 淳也",
         "numbering": "MPCA07M0"
+    },
+    {
+        "lecture_title": "知的財産法専門特論III【MR】",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "土曜日",
+        "period": "2時限",
+        "credit": "2単位",
+        "person": "岸 彰",
+        "numbering": "MPCA08M0"
     },
     {
         "lecture_title": "知的財産法専門特論IV【MR】",
@@ -43107,6 +43404,17 @@
         "credit": "2単位",
         "person": "五丁 龍志, 山本 淳也",
         "numbering": "MPCA27M0"
+    },
+    {
+        "lecture_title": "知的財産法専門特論III【MR】",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "土曜日",
+        "period": "2時限",
+        "credit": "2単位",
+        "person": "岸 彰",
+        "numbering": "MPCA28M0"
     },
     {
         "lecture_title": "知的財産法専門特論IV【MR】",
@@ -43857,6 +44165,17 @@
         "numbering": "MPCD15M0"
     },
     {
+        "lecture_title": "事業戦略事例研究II【MR】",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "7時限",
+        "credit": "2単位",
+        "person": "小林 昭寛, 大塚 理彦, 杉浦 淳, 長谷川 光一, 角田 全功, 榎本 吉孝",
+        "numbering": "MPCD16M0"
+    },
+    {
         "lecture_title": "知的財産マネジメント要論【MR】",
         "department": "知的財産研究科 知的財産専攻",
         "year": "1年次",
@@ -43989,6 +44308,17 @@
         "numbering": "MPCD31M0"
     },
     {
+        "lecture_title": "事業戦略事例研究II【MR】",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "7時限",
+        "credit": "2単位",
+        "person": "小林 昭寛, 大塚 理彦, 杉浦 淳, 長谷川 光一, 角田 全功, 榎本 吉孝",
+        "numbering": "MPCD32M0"
+    },
+    {
         "lecture_title": "経営学要論【MR】",
         "department": "知的財産研究科 知的財産専攻",
         "year": "1年次",
@@ -44009,6 +44339,17 @@
         "credit": "2単位",
         "person": "小林 昭寛, 大塚 理彦, 杉浦 淳, 長谷川 光一, 角田 全功, 榎本 吉孝",
         "numbering": "MPCD34M0"
+    },
+    {
+        "lecture_title": "事業戦略事例研究II【MR】",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "7時限",
+        "credit": "2単位",
+        "person": "小林 昭寛, 大塚 理彦, 杉浦 淳, 長谷川 光一, 角田 全功, 榎本 吉孝",
+        "numbering": "MPCD35M0"
     },
     {
         "lecture_title": "知的財産事業化演習",
@@ -44130,6 +44471,28 @@
         "credit": "2単位",
         "person": "内藤 浩樹, 三浦 武範, 大塚 理彦, 村川 一雄, 角田 全功, 尾茂 康雄, 石川 克司",
         "numbering": "MPCE02A0"
+    },
+    {
+        "lecture_title": "インターンシップ",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期集中",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "2単位",
+        "person": "村川 一雄, 林 茂樹, 三浦 武範, 内藤 浩樹, 角田 全功",
+        "numbering": "MPCE03A0"
+    },
+    {
+        "lecture_title": "インターンシップ",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期集中",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "2単位",
+        "person": "村川 一雄, 林 茂樹, 三浦 武範, 内藤 浩樹, 角田 全功",
+        "numbering": "MPCE04A0"
     },
     {
         "lecture_title": "Intellectual Property Research I",
