@@ -27364,7 +27364,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "アイヴィー・ユエ マ",
+        "person": "ユエ マ",
         "numbering": "A1C003F1"
     },
     {
@@ -27639,7 +27639,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "アイヴィー・ユエ マ",
+        "person": "ユエ マ",
         "numbering": "A1C004F1"
     },
     {
@@ -39215,6 +39215,72 @@
         "numbering": "DUC00203"
     },
     {
+        "lecture_title": "プロダクトデザイン特殊研究",
+        "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
+        "year": "1年次",
+        "term": "研究(博士後期課程)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "12単位",
+        "person": "RD専攻幹事",
+        "numbering": "DUC00301"
+    },
+    {
+        "lecture_title": "プロダクトデザイン特殊研究",
+        "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
+        "year": "1年次",
+        "term": "研究(博士後期課程)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "12単位",
+        "person": "RD専攻幹事",
+        "numbering": "DUC00302"
+    },
+    {
+        "lecture_title": "プロダクトデザイン特殊研究",
+        "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
+        "year": "1年次",
+        "term": "研究(博士後期課程)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "12単位",
+        "person": "RD専攻幹事",
+        "numbering": "DUC00303"
+    },
+    {
+        "lecture_title": "建築デザイン特殊研究",
+        "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
+        "year": "1年次",
+        "term": "研究(博士後期課程)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "12単位",
+        "person": "RD専攻幹事",
+        "numbering": "DUC00401"
+    },
+    {
+        "lecture_title": "建築デザイン特殊研究",
+        "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
+        "year": "1年次",
+        "term": "研究(博士後期課程)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "12単位",
+        "person": "RD専攻幹事",
+        "numbering": "DUC00402"
+    },
+    {
+        "lecture_title": "建築デザイン特殊研究",
+        "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
+        "year": "1年次",
+        "term": "研究(博士後期課程)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "12単位",
+        "person": "RD専攻幹事",
+        "numbering": "DUC00403"
+    },
+    {
         "lecture_title": "ロボティクス特殊研究",
         "department": "ロボティクス&デザイン工学研究科 ロボティクス&デザイン工学専攻",
         "year": "1年次",
@@ -42115,7 +42181,7 @@
         "dow": "木曜日\\n木曜日",
         "period": "3時限\\n4時限",
         "credit": "1単位",
-        "person": "ハリー アンダーソン III",
+        "person": "ショーン アンダーソン",
         "numbering": "M8CA24A0"
     },
     {
