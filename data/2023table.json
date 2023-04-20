@@ -2013,25 +2013,25 @@
         "numbering": "11CA02A0"
     },
     {
-        "lecture_title": "CAD/CG演習Iイ組",
+        "lecture_title": "CAD/CG演習I1組",
         "department": "工学部 建築学科",
         "year": "3年次",
         "term": "前期",
         "dow": "木曜日\\n木曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "完山 剛, 宮城 亮平",
+        "person": "完山 剛, 宮城 亮平, 岡田 眞一",
         "numbering": "11CB14A0"
     },
     {
-        "lecture_title": "CAD/CG演習Iロ組",
+        "lecture_title": "CAD/CG演習I2組",
         "department": "工学部 建築学科",
         "year": "3年次",
         "term": "前期",
         "dow": "木曜日\\n木曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "宮城 亮平, 完山 剛",
+        "person": "岡田 眞一, 完山 剛, 宮城 亮平",
         "numbering": "11CB14B0"
     },
     {
@@ -22660,7 +22660,7 @@
         "numbering": "3CAA04L0"
     },
     {
-        "lecture_title": "電気回路I(再履修)【前半】",
+        "lecture_title": "電気回路I(再)【前半】",
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "1年次",
         "term": "後期(前半)",
@@ -22715,7 +22715,7 @@
         "numbering": "3CAE02L0"
     },
     {
-        "lecture_title": "材料力学Ia(再履修)【後半】",
+        "lecture_title": "材料力学Ia(再)【後半】",
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "1年次",
         "term": "後期(後半)",
@@ -22748,7 +22748,7 @@
         "numbering": "3CAF01L0"
     },
     {
-        "lecture_title": "電気回路I(再履修)【前半】",
+        "lecture_title": "電気回路I(再)【前半】",
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "1年次",
         "term": "後期(前半)",
@@ -23331,7 +23331,7 @@
         "numbering": "3DAA04M0"
     },
     {
-        "lecture_title": "電気回路I(再履修)【前半】",
+        "lecture_title": "電気回路I(再)【前半】",
         "department": "ロボティクス&デザイン工学部 システムデザイン工学科",
         "year": "1年次",
         "term": "後期(前半)",
@@ -23392,7 +23392,7 @@
         "term": "前期",
         "dow": "火曜日\\n火曜日",
         "period": "3時限\\n4時限",
-        "credit": "1単位",
+        "credit": "2単位",
         "person": "井上 剛, 大須賀 美恵子, 中泉 文孝, 横山 広充, 河合 俊和, 倉前 宏行, 廣井 富, 松井 哲也, 向井 佳奈子, 柳澤 佑太, 武本 正, 清原 誠",
         "numbering": "3DAC07M0"
     },
@@ -23403,7 +23403,7 @@
         "term": "後期",
         "dow": "木曜日\\n木曜日",
         "period": "3時限\\n4時限",
-        "credit": "1単位",
+        "credit": "2単位",
         "person": "脇田 由実, 瀨尾 昌孝, ラサミー ポチャラ, 中山 学之, 武本 正, 向井 佳奈子",
         "numbering": "3DAC08M0"
     },
@@ -40201,7 +40201,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "シャゼイブ アーメド",
+        "person": "ジェイソン ハンドフォース",
         "numbering": "E1C006K1"
     },
     {
@@ -40267,7 +40267,7 @@
         "dow": "金曜日",
         "period": "4時限",
         "credit": "1単位",
-        "person": "シャゼイブ アーメド",
+        "person": "ジェイソン ハンドフォース",
         "numbering": "E1C006M1"
     },
     {
@@ -40289,7 +40289,7 @@
         "dow": "金曜日",
         "period": "4時限",
         "credit": "1単位",
-        "person": "シャゼイブ アーメド",
+        "person": "ジェイソン ハンドフォース",
         "numbering": "E1C007K0"
     },
     {
@@ -40322,7 +40322,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "シャゼイブ アーメド",
+        "person": "ジェイソン ハンドフォース",
         "numbering": "E1C007L0"
     },
     {
@@ -41107,7 +41107,7 @@
         "numbering": "E4C0083D"
     },
     {
-        "lecture_title": "物理学I(再履修)イ組【後半】",
+        "lecture_title": "物理学I(再)イ組【後半】",
         "department": "ロボティクス&デザイン工学部 共通科目",
         "year": "1年次",
         "term": "前期(後半)",
@@ -41118,7 +41118,7 @@
         "numbering": "E4C0093A"
     },
     {
-        "lecture_title": "物理学I(再履修)ロ組【後半】",
+        "lecture_title": "物理学I(再)ロ組【後半】",
         "department": "ロボティクス&デザイン工学部 共通科目",
         "year": "1年次",
         "term": "前期(後半)",
