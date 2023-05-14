@@ -19356,7 +19356,7 @@
         "dow": "木曜日",
         "period": "5時限",
         "credit": "2単位",
-        "person": "澤田 俊也, 神野 崇馬",
+        "person": "澤田 俊也, 武藤 寿彰",
         "numbering": "1GCM36A0"
     },
     {
@@ -27192,6 +27192,17 @@
         "numbering": "A1C002J1"
     },
     {
+        "lecture_title": "ベーシック・イングリッシュb",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "火曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "村尾 純子",
+        "numbering": "A1C002L0"
+    },
+    {
         "lecture_title": "オーラル・コミュニケーションIa1組",
         "department": "工学部 キャリア形成の基礎",
         "year": "1年次",
@@ -27753,6 +27764,17 @@
         "numbering": "A1C0051A"
     },
     {
+        "lecture_title": "オーラル・コミュニケーションIIa",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "3時限",
+        "credit": "1単位",
+        "person": "ジェイソン ハンドフォース",
+        "numbering": "A1C005L0"
+    },
+    {
         "lecture_title": "オーラル・コミュニケーションIIb",
         "department": "工学部 キャリア形成の基礎",
         "year": "2年次",
@@ -28037,6 +28059,17 @@
         "credit": "1単位",
         "person": "惠中 あづさ",
         "numbering": "A1C007J1"
+    },
+    {
+        "lecture_title": "工学コミュニケーション英語基礎b",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "横山 香奈",
+        "numbering": "A1C0083G"
     },
     {
         "lecture_title": "工学コミュニケーション英語基礎bA組",
@@ -28917,6 +28950,17 @@
         "credit": "1単位",
         "person": "ジョセフ レデスマ",
         "numbering": "A1C0131A"
+    },
+    {
+        "lecture_title": "英語プレゼンテーションa【前半】",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "3年次",
+        "term": "前期(前半)",
+        "dow": "水曜日\\n水曜日",
+        "period": "2時限\\n3時限",
+        "credit": "1単位",
+        "person": "村尾 純子",
+        "numbering": "A1C0133A"
     },
     {
         "lecture_title": "英語プレゼンテーションb",
@@ -41693,7 +41737,7 @@
         "lecture_title": "特別支援教育",
         "department": "教職科目",
         "year": "2年次",
-        "term": "前期集中",
+        "term": "集中",
         "dow": "未掲載",
         "period": "未掲載",
         "credit": "2単位",
