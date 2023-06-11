@@ -4235,17 +4235,6 @@
         "numbering": "14AA07A0"
     },
     {
-        "lecture_title": "基礎化学演習c",
-        "department": "工学部 応用化学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "藤井 秀司, 藤森 啓一, 東本 慎也, 大高 敦, 小林 正治, 松村 吉将",
-        "numbering": "14AA08A0"
-    },
-    {
         "lecture_title": "応用化学演習a",
         "department": "工学部 応用化学科",
         "year": "2年次",
@@ -4565,17 +4554,6 @@
         "numbering": "14CB01A0"
     },
     {
-        "lecture_title": "化学工学II",
-        "department": "工学部 応用化学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "東本 慎也",
-        "numbering": "14CB02A0"
-    },
-    {
         "lecture_title": "化学英語",
         "department": "工学部 応用化学科",
         "year": "3年次",
@@ -4774,17 +4752,6 @@
         "numbering": "14CC01A0"
     },
     {
-        "lecture_title": "有機化学IIIロ組",
-        "department": "工学部 応用化学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "小林 正治",
-        "numbering": "14CC01B0"
-    },
-    {
         "lecture_title": "有機化学IV",
         "department": "工学部 応用化学科",
         "year": "3年次",
@@ -4849,17 +4816,6 @@
         "credit": "2単位",
         "person": "藤井 秀司",
         "numbering": "14CC09A0"
-    },
-    {
-        "lecture_title": "高分子化学",
-        "department": "工学部 応用化学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "藤井 秀司",
-        "numbering": "14CC10A0"
     },
     {
         "lecture_title": "高分子物性",
@@ -4981,17 +4937,6 @@
         "credit": "2単位",
         "person": "小林 正治",
         "numbering": "14CD09A0"
-    },
-    {
-        "lecture_title": "生命有機化学",
-        "department": "工学部 応用化学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "小林 正治",
-        "numbering": "14CD10A0"
     },
     {
         "lecture_title": "危険物取扱法",
@@ -14606,17 +14551,6 @@
         "credit": "2単位",
         "person": "大井 翔",
         "numbering": "1CCM16A0"
-    },
-    {
-        "lecture_title": "画像情報処理II",
-        "department": "情報科学部 情報メディア学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "佐野 睦夫",
-        "numbering": "1CCM25A0"
     },
     {
         "lecture_title": "CAD",
