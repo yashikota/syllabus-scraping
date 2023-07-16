@@ -20786,7 +20786,7 @@
         "dow": "金曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "杉浦 淳, 尾茂 康雄",
+        "person": "杉浦 淳, 尾茂 康雄, 箱田 聖二",
         "numbering": "2ACA01A0"
     },
     {
@@ -33854,7 +33854,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1単位",
-        "person": "上野 未貴, 鵜飼 孝博, 宇戸 禎仁, 河村 耕史, 熊本 和夫, 小山 政俊, 下村 修, 下元 一輝, 周 虹, 髙山 成, 権 淳日, 外波 弘之, 原口 真, 平井 智康, 藤本 哲生, 又吉 秀仁, 松村 潔, 三方 康弘, 安國 良平, 山浦 真一, 吉田 恵一郎, 吉田 準史",
+        "person": "鵜飼 孝博, 宇戸 禎仁, 河村 耕史, 熊本 和夫, 小山 政俊, 下村 修, 下元 一輝, 周 虹, 髙山 成, 権 淳日, 外波 弘之, 原口 真, 平井 智康, 藤本 哲生, 又吉 秀仁, 松村 潔, 三方 康弘, 安國 良平, 山浦 真一, 吉田 恵一郎, 吉田 準史",
         "numbering": "AYC006A0"
     },
     {
@@ -33865,7 +33865,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "1単位",
-        "person": "授業担当者, 上野 未貴, 鵜飼 孝博, 宇戸 禎仁, 河村 耕史, 熊本 和夫, 小山 政俊, 下村 修, 周 虹, 髙山 成, 権 淳日, 外波 弘之, 原口 真, 平井 智康, 藤本 哲生, 又吉 秀仁, 松村 潔, 三方 康弘, 宮部 正洋, 安國 良平, 山浦 真一, 吉田 恵一郎, 吉田 準史",
+        "person": "授業担当者, 鵜飼 孝博, 宇戸 禎仁, 河村 耕史, 熊本 和夫, 小山 政俊, 下村 修, 周 虹, 髙山 成, 権 淳日, 外波 弘之, 原口 真, 平井 智康, 藤本 哲生, 又吉 秀仁, 松村 潔, 三方 康弘, 宮部 正洋, 安國 良平, 山浦 真一, 吉田 恵一郎, 吉田 準史",
         "numbering": "AYC007A0"
     },
     {
@@ -41301,7 +41301,7 @@
         "dow": "月曜日\\n月曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "原田 義之, 藤田 浩彦, 中井 創, 蓑茂 工将, 梅崎 英一, 鈴木 祥輝",
+        "person": "原田 義之, 藤田 浩彦, 中井 創, 長野 佳輔, 梅崎 英一, 三浦 大志",
         "numbering": "E4C011L0"
     },
     {
@@ -42845,72 +42845,6 @@
         "numbering": "MBCD10A0"
     },
     {
-        "lecture_title": "リサーチリテラシー(後半)",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "前期(後半)",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "三浦 武範",
-        "numbering": "MPAF01A0"
-    },
-    {
-        "lecture_title": "リサーチリテラシー(後半)【MR】",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "前期(後半)",
-        "dow": "月曜日",
-        "period": "7時限",
-        "credit": "1単位",
-        "person": "三浦 武範",
-        "numbering": "MPAF01M0"
-    },
-    {
-        "lecture_title": "研究基礎",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "大塚 理彦",
-        "numbering": "MPAF02A0"
-    },
-    {
-        "lecture_title": "研究基礎",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "小林 昭寛",
-        "numbering": "MPAF02B0"
-    },
-    {
-        "lecture_title": "研究基礎",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "杉浦 淳",
-        "numbering": "MPAF02F0"
-    },
-    {
-        "lecture_title": "研究基礎",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "榎本 吉孝",
-        "numbering": "MPAF02H0"
-    },
-    {
         "lecture_title": "研究基礎",
         "department": "知的財産研究科 知的財産専攻",
         "year": "1年次",
@@ -43307,17 +43241,6 @@
         "numbering": "MPCA12M0"
     },
     {
-        "lecture_title": "民法要論I【MR】",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "吉田 悦子",
-        "numbering": "MPCA14M0"
-    },
-    {
         "lecture_title": "民法要論II【MR】",
         "department": "知的財産研究科 知的財産専攻",
         "year": "1年次",
@@ -43547,17 +43470,6 @@
         "credit": "2単位",
         "person": "甲野 正道",
         "numbering": "MPCA32M0"
-    },
-    {
-        "lecture_title": "民法要論【MR】",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "吉田 悦子",
-        "numbering": "MPCA33M0"
     },
     {
         "lecture_title": "特許法・実用新案法特論I",
@@ -44330,17 +44242,6 @@
         "numbering": "MPCD22M0"
     },
     {
-        "lecture_title": "技術標準と知的財産特論【MR】",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "土曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "村川 一雄",
-        "numbering": "MPCD23M0"
-    },
-    {
         "lecture_title": "マーケティングとブランド特論【MR】",
         "department": "知的財産研究科 知的財産専攻",
         "year": "1年次",
@@ -44504,17 +44405,6 @@
         "credit": "2単位",
         "person": "山本 飛翔",
         "numbering": "MPCD41M0"
-    },
-    {
-        "lecture_title": "技術標準と知的財産特論【MR】",
-        "department": "知的財産研究科 知的財産専攻",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "土曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "村川 一雄",
-        "numbering": "MPCD42M0"
     },
     {
         "lecture_title": "マーケティングとブランド特論【MR】",
