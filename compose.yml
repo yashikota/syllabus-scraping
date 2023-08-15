@@ -1,0 +1,11 @@
+services:
+  syllabus:
+    build: .
+    image: syllabus-scraping
+    container_name: syllabus-scraping
+    working_dir: /app
+    command: python3 main.py
+    volumes:
+      - .:/app
+    environment:
+      - TZ=Asia/Tokyo
