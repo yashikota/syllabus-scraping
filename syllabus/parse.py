@@ -66,7 +66,7 @@ class Parser:
             # 講義名等を取得
             self.values.extend([enter[0][i] for i in range(len(enter[0]))])
             # 単位を付与
-            self.values[3] += "単位"
+            self.values[4] += "単位"
             # 担当者名のよみがな削除
             self.values[5] = re.sub(r"\(.+?\)", "", self.values[5]).replace("  ", ", ")
             # 講義コードをurlから抽出し、追加
