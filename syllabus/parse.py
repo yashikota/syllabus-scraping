@@ -2,6 +2,7 @@
 データを解析
 """
 import re
+import datetime
 
 
 class Parser:
@@ -26,10 +27,11 @@ class Parser:
         self.text = "\n".join(enter[1])
 
         try:
-            lectures, themes, contents, preparations = list(), list(), list(), list()
+            _lectures, themes, contents, preparations = list(), list(), list(), list()
             result = dict()
 
             keys = [
+                "last_update_date",
                 "lecture_title",
                 "lecture_title_en",
                 "year",
@@ -57,6 +59,10 @@ class Parser:
                 "practice",
             ]
 
+            # 最終更新日
+            today = datetime.date.today()
+            today = today.strftime("%Y/%m/%d")
+            self.values.append(today)
             # 講義名等を取得
             self.values.extend([enter[0][i] for i in range(len(enter[0]))])
             # 単位を付与
