@@ -9911,17 +9911,6 @@
         "numbering": "1BAL29Z0"
     },
     {
-        "lecture_title": "C演習I",
-        "department": "情報科学部 情報システム学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "水曜日\\n水曜日",
-        "period": "1時限\\n2時限",
-        "credit": "3単位",
-        "person": "水谷 泰治, 平岡 一剛, 山内 建二, 平嶋 洋一, 小谷 直樹, 尾花 将輝, 杉川 智, 平 博順, 中西 知嘉子, 大井 翔, 樫原 茂, 坂平 文博, 久保田 匠",
-        "numbering": "1BAN03A0"
-    },
-    {
         "lecture_title": "情報システム基礎演習",
         "department": "情報科学部 情報システム学科",
         "year": "2年次",
@@ -10261,17 +10250,6 @@
         "credit": "2単位",
         "person": "尾花 将輝, 小島 英春",
         "numbering": "1BBN06A0"
-    },
-    {
-        "lecture_title": "情報システム応用演習",
-        "department": "情報科学部 情報システム学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "火曜日\\n火曜日",
-        "period": "3時限\\n4時限",
-        "credit": "2単位",
-        "person": "井垣 宏, 本田 澄, 福安 直樹",
-        "numbering": "1BBN09A0"
     },
     {
         "lecture_title": "CSプロジェクト演習",
@@ -11636,17 +11614,6 @@
         "credit": "2単位",
         "person": "平山 亮",
         "numbering": "1CAB01A0"
-    },
-    {
-        "lecture_title": "テクニカルライティング",
-        "department": "情報科学部 情報メディア学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "河合 紀彦, 東坂 範雄",
-        "numbering": "1CAB05A0"
     },
     {
         "lecture_title": "テクニカルライティング",
@@ -14399,17 +14366,6 @@
         "numbering": "1CCE14A0"
     },
     {
-        "lecture_title": "メディアインタフェース",
-        "department": "情報科学部 情報メディア学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "橋本 渉",
-        "numbering": "1CCE15A0"
-    },
-    {
         "lecture_title": "Webデザイン",
         "department": "情報科学部 情報メディア学科",
         "year": "3年次",
@@ -14639,17 +14595,6 @@
         "credit": "2単位",
         "person": "鈴木 基之",
         "numbering": "1CCM27A0"
-    },
-    {
-        "lecture_title": "メディアインタフェース",
-        "department": "情報科学部 情報メディア学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "橋本 渉",
-        "numbering": "1CCM28A0"
     },
     {
         "lecture_title": "Webデザイン",
@@ -16291,17 +16236,6 @@
         "numbering": "1EBN04A0"
     },
     {
-        "lecture_title": "Java演習",
-        "department": "情報科学部 情報知能学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "1時限\\n2時限",
-        "credit": "3単位",
-        "person": "安留 誠吾, 井垣 宏, 鎌倉 快之, 中西 知嘉子, 福安 直樹, 須山 敬之, 神納 貴生",
-        "numbering": "1EBN05A0"
-    },
-    {
         "lecture_title": "ソフトウェア工学演習",
         "department": "情報科学部 情報知能学科",
         "year": "3年次",
@@ -16399,17 +16333,6 @@
         "credit": "2単位",
         "person": "安留 誠吾, 椎原 正次, 橋本 渉, 須永 宏, 中西 知嘉子",
         "numbering": "1ECB08A0"
-    },
-    {
-        "lecture_title": "プログラミング入門",
-        "department": "情報科学部 情報知能学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "中西 知嘉子, 布村 泰浩",
-        "numbering": "1ECB10A0"
     },
     {
         "lecture_title": "コンピュータリテラシー",
@@ -16575,17 +16498,6 @@
         "credit": "2単位",
         "person": "ズオン クアン タン",
         "numbering": "1ECM10A0"
-    },
-    {
-        "lecture_title": "情報科学実践演習(国際PBL)",
-        "department": "情報科学部 情報知能学科",
-        "year": "2年次",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "平山 亮",
-        "numbering": "1ECM30A0"
     },
     {
         "lecture_title": "情報科学実践演習(国内PBL)a",
@@ -17268,17 +17180,6 @@
         "credit": "2単位",
         "person": "島野 顕継",
         "numbering": "1FAB02A0"
-    },
-    {
-        "lecture_title": "テクニカルライティング",
-        "department": "情報科学部 ネットワークデザイン学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "樫原 茂, 東坂 範雄",
-        "numbering": "1FAB05A0"
     },
     {
         "lecture_title": "テクニカルライティング",
@@ -18995,17 +18896,6 @@
         "credit": "3単位",
         "person": "荒木 英夫, 安留 誠吾",
         "numbering": "1GBN04A0"
-    },
-    {
-        "lecture_title": "Java演習",
-        "department": "情報科学部 データサイエンス学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "1時限\\n2時限",
-        "credit": "3単位",
-        "person": "安留 誠吾, 鎌倉 快之, 井垣 宏, 中西 知嘉子, 神納 貴生, 福安 直樹, 須山 敬之",
-        "numbering": "1GBN05A0"
     },
     {
         "lecture_title": "データサイエンス実践演習III",
@@ -31379,7 +31269,7 @@
         "dow": "月曜日\\n月曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "藤元 章, 中井 創, 藤田 浩彦, 三浦 大志, 宮永 麟太郎, 山口 雅弘",
+        "person": "原田 義之, 中井 創, 藤田 浩彦, 三浦 大志, 宮永 麟太郎, 山口 雅弘",
         "numbering": "A3C015H0"
     },
     {
@@ -31390,7 +31280,7 @@
         "dow": "木曜日\\n木曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "谷 保孝, 原田 義之, 藤川 祐輝, 藤田 浩彦",
+        "person": "谷 保孝, 藤川 祐輝, 藤田 浩彦",
         "numbering": "A3C015J0"
     },
     {
@@ -35387,39 +35277,6 @@
         "numbering": "B1C006B0"
     },
     {
-        "lecture_title": "英語による情報技術II",
-        "department": "情報科学部 共通科目",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "ホー タッヒン",
-        "numbering": "B1C006C0"
-    },
-    {
-        "lecture_title": "英語による情報技術II",
-        "department": "情報科学部 共通科目",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "ホー タッヒン",
-        "numbering": "B1C006D0"
-    },
-    {
-        "lecture_title": "英語による情報技術II",
-        "department": "情報科学部 共通科目",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "ホー タッヒン",
-        "numbering": "B1C006F0"
-    },
-    {
         "lecture_title": "英語表現(basic2)a",
         "department": "情報科学部 共通科目",
         "year": "2年次",
@@ -37620,50 +37477,6 @@
         "numbering": "C1C004D0"
     },
     {
-        "lecture_title": "資格英語I1組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "1時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005A0"
-    },
-    {
-        "lecture_title": "資格英語I2組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005B0"
-    },
-    {
-        "lecture_title": "資格英語I4組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "1時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005C0"
-    },
-    {
-        "lecture_title": "資格英語I3組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005D0"
-    },
-    {
         "lecture_title": "資格英語II3組",
         "department": "知的財産学部 教養領域",
         "year": "2年次",
@@ -38595,7 +38408,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "村尾 純子",
+        "person": "瀧川 宏樹",
         "numbering": "C3C015B0"
     },
     {
@@ -38606,7 +38419,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "村尾 純子",
+        "person": "瀧川 宏樹",
         "numbering": "C3C015C0"
     },
     {
@@ -38826,17 +38639,6 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "杉山 典正",
-        "numbering": "C3C021G0"
-    },
-    {
-        "lecture_title": "展開ゼミナールa",
-        "department": "知的財産学部 展開領域",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
         "person": "吉田 悦子",
         "numbering": "C3C021H0"
     },
@@ -39004,17 +38806,6 @@
         "credit": "2単位",
         "person": "関堂 幸輔",
         "numbering": "C3C022F0"
-    },
-    {
-        "lecture_title": "展開ゼミナールb",
-        "department": "知的財産学部 展開領域",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "杉山 典正",
-        "numbering": "C3C022G0"
     },
     {
         "lecture_title": "展開ゼミナールb",
