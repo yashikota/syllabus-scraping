@@ -1492,7 +1492,7 @@
         "dow": "水曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "岡本 公秀",
+        "person": "坂井 禎介",
         "numbering": "11BB26A0"
     },
     {
@@ -5089,7 +5089,7 @@
         "dow": "水曜日\\n水曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "廣芝 伸哉, 原嶋 勝美, 神村 共住, 上野 未貴, 安國 良平, 金城 良太, 鷹取 慧",
+        "person": "廣芝 伸哉, 原嶋 勝美, 神村 共住, 上野 未貴, 安國 良平, 金城 良太, 原田 裕生",
         "numbering": "15AA03A0"
     },
     {
@@ -5100,7 +5100,7 @@
         "dow": "水曜日\\n水曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "廣芝 伸哉, 原嶋 勝美, 神村 共住, 上野 未貴, 安國 良平, 金城 良太, 鷹取 慧",
+        "person": "廣芝 伸哉, 原嶋 勝美, 神村 共住, 上野 未貴, 安國 良平, 金城 良太, 原田 裕生",
         "numbering": "15AA03B0"
     },
     {
@@ -16291,17 +16291,6 @@
         "numbering": "1EBN04A0"
     },
     {
-        "lecture_title": "Java演習",
-        "department": "情報科学部 情報知能学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "1時限\\n2時限",
-        "credit": "3単位",
-        "person": "安留 誠吾, 井垣 宏, 鎌倉 快之, 中西 知嘉子, 福安 直樹, 須山 敬之, 神納 貴生",
-        "numbering": "1EBN05A0"
-    },
-    {
         "lecture_title": "ソフトウェア工学演習",
         "department": "情報科学部 情報知能学科",
         "year": "3年次",
@@ -16399,17 +16388,6 @@
         "credit": "2単位",
         "person": "安留 誠吾, 椎原 正次, 橋本 渉, 須永 宏, 中西 知嘉子",
         "numbering": "1ECB08A0"
-    },
-    {
-        "lecture_title": "プログラミング入門",
-        "department": "情報科学部 情報知能学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "中西 知嘉子, 布村 泰浩",
-        "numbering": "1ECB10A0"
     },
     {
         "lecture_title": "コンピュータリテラシー",
@@ -16575,17 +16553,6 @@
         "credit": "2単位",
         "person": "ズオン クアン タン",
         "numbering": "1ECM10A0"
-    },
-    {
-        "lecture_title": "情報科学実践演習(国際PBL)",
-        "department": "情報科学部 情報知能学科",
-        "year": "2年次",
-        "term": "後期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "平山 亮",
-        "numbering": "1ECM30A0"
     },
     {
         "lecture_title": "情報科学実践演習(国内PBL)a",
@@ -18995,17 +18962,6 @@
         "credit": "3単位",
         "person": "荒木 英夫, 安留 誠吾",
         "numbering": "1GBN04A0"
-    },
-    {
-        "lecture_title": "Java演習",
-        "department": "情報科学部 データサイエンス学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "1時限\\n2時限",
-        "credit": "3単位",
-        "person": "安留 誠吾, 鎌倉 快之, 井垣 宏, 中西 知嘉子, 神納 貴生, 福安 直樹, 須山 敬之",
-        "numbering": "1GBN05A0"
     },
     {
         "lecture_title": "データサイエンス実践演習III",
@@ -26451,7 +26407,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "西山 由理花",
+        "person": "西山 由理花, 王 莞晗",
         "numbering": "A0C0111F"
     },
     {
@@ -26462,7 +26418,7 @@
         "dow": "火曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "西山 由理花",
+        "person": "西山 由理花, 王 莞晗",
         "numbering": "A0C0111G"
     },
     {
@@ -28211,7 +28167,7 @@
         "dow": "金曜日",
         "period": "1時限",
         "credit": "1単位",
-        "person": "池田 直樹",
+        "person": "黄 柏瀧",
         "numbering": "A1C008F0"
     },
     {
@@ -28244,7 +28200,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "池田 直樹",
+        "person": "黄 柏瀧",
         "numbering": "A1C008G0"
     },
     {
@@ -28288,7 +28244,7 @@
         "dow": "金曜日",
         "period": "4時限",
         "credit": "1単位",
-        "person": "池田 直樹",
+        "person": "黄 柏瀧",
         "numbering": "A1C008H0"
     },
     {
@@ -29795,7 +29751,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "未定",
+        "person": "源嶋 孝太",
         "numbering": "A3C003G0"
     },
     {
@@ -29982,7 +29938,7 @@
         "dow": "水曜日",
         "period": "2時限",
         "credit": "1単位",
-        "person": "未定",
+        "person": "岸本 健吾",
         "numbering": "A3C004G1"
     },
     {
@@ -30246,7 +30202,7 @@
         "dow": "水曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "未定",
+        "person": "塚本 達也",
         "numbering": "A3C007B1"
     },
     {
@@ -31379,7 +31335,7 @@
         "dow": "月曜日\\n月曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "藤元 章, 中井 創, 藤田 浩彦, 三浦 大志, 宮永 麟太郎, 山口 雅弘",
+        "person": "原田 義之, 中井 創, 藤田 浩彦, 三浦 大志, 宮永 麟太郎, 山口 雅弘",
         "numbering": "A3C015H0"
     },
     {
@@ -31390,7 +31346,7 @@
         "dow": "木曜日\\n木曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "谷 保孝, 原田 義之, 藤川 祐輝, 藤田 浩彦",
+        "person": "谷 保孝, 藤川 祐輝, 藤田 浩彦",
         "numbering": "A3C015J0"
     },
     {
@@ -32413,17 +32369,6 @@
         "dow": "木曜日\\n木曜日",
         "period": "4時限\\n5時限",
         "credit": "1単位",
-        "person": "羽賀 俊雄, 伊與田 宗慶, 鵜飼 孝博, 原口 真, 山浦 真一",
-        "numbering": "A3C030C0"
-    },
-    {
-        "lecture_title": "エンジニアリング探求演習(PBL)",
-        "department": "工学部 工学の基礎",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "4時限\\n5時限",
-        "credit": "1単位",
         "person": "見市 知昭, 前元 利彦, 辻田 勝吉, 田熊 隆史, 又吉 秀仁, 金城 良守, 重弘 裕二, 吉田 恵一郎",
         "numbering": "A3C030D0"
     },
@@ -32534,17 +32479,6 @@
         "dow": "木曜日\\n木曜日",
         "period": "4時限\\n5時限",
         "credit": "1単位",
-        "person": "羽賀 俊雄, 伊與田 宗慶, 鵜飼 孝博, 原口 真, 山浦 真一",
-        "numbering": "A3C034C0"
-    },
-    {
-        "lecture_title": "エンジニアリング探求演習(PBL)",
-        "department": "工学部 工学の基礎",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "4時限\\n5時限",
-        "credit": "1単位",
         "person": "見市 知昭, 前元 利彦, 辻田 勝吉, 田熊 隆史, 又吉 秀仁, 金城 良守, 重弘 裕二, 吉田 恵一郎",
         "numbering": "A3C034D0"
     },
@@ -32633,7 +32567,7 @@
         "dow": "木曜日\\n木曜日",
         "period": "4時限\\n5時限",
         "credit": "1単位",
-        "person": "羽賀 俊雄, 伊與田 宗慶, 鵜飼 孝博, 原口 真, 山浦 真一",
+        "person": "羽賀 俊雄, 伊與田 宗慶, 鵜飼 孝博, 原口 真, 山浦 真一, 越智 秀, 越川 翔生, 西村 佳那子, 松田 大",
         "numbering": "A3C037C0"
     },
     {
@@ -33722,7 +33656,7 @@
         "dow": "火曜日",
         "period": "5時限",
         "credit": "1単位",
-        "person": "河野 良坪, 今川 光, 未定",
+        "person": "河野 良坪, 今川 光, 未定, 毛利 雅一",
         "numbering": "AYC004B0"
     },
     {
@@ -37620,50 +37554,6 @@
         "numbering": "C1C004D0"
     },
     {
-        "lecture_title": "資格英語I1組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "1時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005A0"
-    },
-    {
-        "lecture_title": "資格英語I2組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005B0"
-    },
-    {
-        "lecture_title": "資格英語I4組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "1時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005C0"
-    },
-    {
-        "lecture_title": "資格英語I3組",
-        "department": "知的財産学部 教養領域",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "神谷 健一",
-        "numbering": "C1C005D0"
-    },
-    {
         "lecture_title": "資格英語II3組",
         "department": "知的財産学部 教養領域",
         "year": "2年次",
@@ -38595,7 +38485,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "村尾 純子",
+        "person": "瀧川 宏樹",
         "numbering": "C3C015B0"
     },
     {
@@ -38606,7 +38496,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "村尾 純子",
+        "person": "瀧川 宏樹",
         "numbering": "C3C015C0"
     },
     {
@@ -38826,17 +38716,6 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "杉山 典正",
-        "numbering": "C3C021G0"
-    },
-    {
-        "lecture_title": "展開ゼミナールa",
-        "department": "知的財産学部 展開領域",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
         "person": "吉田 悦子",
         "numbering": "C3C021H0"
     },
@@ -39013,17 +38892,6 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "杉山 典正",
-        "numbering": "C3C022G0"
-    },
-    {
-        "lecture_title": "展開ゼミナールb",
-        "department": "知的財産学部 展開領域",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
         "person": "吉田 悦子",
         "numbering": "C3C022H0"
     },
@@ -39114,6 +38982,17 @@
         "credit": "2単位",
         "person": "榎本 吉孝",
         "numbering": "C3C022Q0"
+    },
+    {
+        "lecture_title": "展開ゼミナールb",
+        "department": "知的財産学部 展開領域",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "大塚 理彦",
+        "numbering": "C3C022R0"
     },
     {
         "lecture_title": "展開ゼミナールb",
@@ -40784,7 +40663,7 @@
         "dow": "水曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "岸本 健吾",
+        "person": "石川 恒男",
         "numbering": "E4C002K1"
     },
     {
@@ -40806,7 +40685,7 @@
         "dow": "水曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "岸本 健吾",
+        "person": "石川 恒男",
         "numbering": "E4C002L1"
     },
     {
@@ -40993,7 +40872,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "石川 恒男",
+        "person": "岸本 健吾",
         "numbering": "E4C005M1"
     },
     {
@@ -41312,7 +41191,7 @@
         "dow": "月曜日\\n月曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "長谷川 尊之, 藤田 浩彦, 蓑茂 工将, 山口 雅弘, 中井 創, 水原 葵",
+        "person": "長谷川 尊之, 藤田 浩彦, 蓑茂 工将, 山口 雅弘, 水原 葵",
         "numbering": "E4C011M0"
     },
     {
@@ -41741,7 +41620,7 @@
         "dow": "火曜日\\n火曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "岡山 敏哉, 寺地 洋之, 本田 昌昭, 吉村 英祐, 吉田 哲, 藤井 伸介, 田中 一成, 山口 行一, 西堀 泰英, 大島 芳彦, 木村 優介",
+        "person": "岡山 敏哉, 寺地 洋之, 本田 昌昭, 吉村 英祐, 吉田 哲, 藤井 伸介, 田中 一成, 山口 行一, 西堀 泰英, 大島 芳彦",
         "numbering": "F1A00100"
     },
     {
@@ -41752,7 +41631,7 @@
         "dow": "火曜日\\n火曜日",
         "period": "1時限\\n2時限",
         "credit": "2単位",
-        "person": "日置 和昭, 東 良慶, 藤本 哲生, 小川 芳也",
+        "person": "日置 和昭, 東 良慶, 藤本 哲生",
         "numbering": "F1A00102"
     },
     {
@@ -44590,7 +44469,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "松井 章浩",
+        "person": "内藤 浩樹, 角田 全功, 松井 章浩",
         "numbering": "MPCF06A0"
     },
     {
@@ -44601,7 +44480,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "角田 全功, 松井 章浩",
+        "person": "内藤 浩樹, 角田 全功, 松井 章浩",
         "numbering": "MPCF07A0"
     },
     {
