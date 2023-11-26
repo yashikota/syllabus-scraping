@@ -10164,6 +10164,17 @@
         "numbering": "1BBH04A0"
     },
     {
+        "lecture_title": "Java演習",
+        "department": "情報科学部 情報システム学科",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "木曜日\\n木曜日",
+        "period": "1時限\\n2時限",
+        "credit": "4単位",
+        "person": "安留 誠吾, 井垣 宏, 鎌倉 快之, 中西 知嘉子, 福安 直樹, 須山 敬之, 神納 貴生",
+        "numbering": "1BBH05A0"
+    },
+    {
         "lecture_title": "ソフトウェア工学演習",
         "department": "情報科学部 情報システム学科",
         "year": "3年次",
@@ -10250,6 +10261,17 @@
         "credit": "3単位",
         "person": "水谷 泰治, 橋本 渉, 宮脇 健三郎, 鎌倉 快之, 小谷 直樹, 村木 祐太, 杉川 智, 神納 貴生, 本田 澄, 小島 英春",
         "numbering": "1BBN04A0"
+    },
+    {
+        "lecture_title": "Java演習",
+        "department": "情報科学部 情報システム学科",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "木曜日\\n木曜日",
+        "period": "1時限\\n2時限",
+        "credit": "3単位",
+        "person": "安留 誠吾, 鎌倉 快之, 井垣 宏, 中西 知嘉子, 神納 貴生, 福安 直樹, 須山 敬之",
+        "numbering": "1BBN05A0"
     },
     {
         "lecture_title": "ソフトウェア工学演習",
@@ -16291,6 +16313,17 @@
         "numbering": "1EBN04A0"
     },
     {
+        "lecture_title": "Java演習",
+        "department": "情報科学部 情報知能学科",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "木曜日\\n木曜日",
+        "period": "1時限\\n2時限",
+        "credit": "3単位",
+        "person": "安留 誠吾, 井垣 宏, 鎌倉 快之, 中西 知嘉子, 福安 直樹, 須山 敬之, 神納 貴生",
+        "numbering": "1EBN05A0"
+    },
+    {
         "lecture_title": "ソフトウェア工学演習",
         "department": "情報科学部 情報知能学科",
         "year": "3年次",
@@ -18962,6 +18995,17 @@
         "credit": "3単位",
         "person": "荒木 英夫, 安留 誠吾",
         "numbering": "1GBN04A0"
+    },
+    {
+        "lecture_title": "Java演習",
+        "department": "情報科学部 データサイエンス学科",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "木曜日\\n木曜日",
+        "period": "1時限\\n2時限",
+        "credit": "3単位",
+        "person": "安留 誠吾, 鎌倉 快之, 井垣 宏, 中西 知嘉子, 神納 貴生, 福安 直樹, 須山 敬之",
+        "numbering": "1GBN05A0"
     },
     {
         "lecture_title": "データサイエンス実践演習III",
@@ -37968,7 +38012,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "西山 由理花",
+        "person": "西山 由理花, 王 莞晗",
         "numbering": "C2C006D0"
     },
     {
@@ -37979,7 +38023,7 @@
         "dow": "火曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "西山 由理花",
+        "person": "西山 由理花, 王 莞晗",
         "numbering": "C2C006F0"
     },
     {
@@ -40267,7 +40311,7 @@
         "dow": "木曜日",
         "period": "2時限",
         "credit": "1単位",
-        "person": "コリン ピット",
+        "person": "コリン ピット, ベンジャミン チャールズ",
         "numbering": "E1C007M1"
     },
     {
@@ -41719,7 +41763,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "4単位",
-        "person": "小池 一歩",
+        "person": "吉村 勉, 小池 一歩",
         "numbering": "F2A00100"
     },
     {
@@ -41730,7 +41774,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "4単位",
-        "person": "牛田 俊, EDM専攻幹事",
+        "person": "宮部 正洋, EDM専攻幹事",
         "numbering": "F2A00101"
     },
     {
@@ -41741,7 +41785,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "4単位",
-        "person": "小池 一歩, 吉村 勉",
+        "person": "吉村 勉, 小池 一歩",
         "numbering": "F2C00200"
     },
     {
@@ -41752,7 +41796,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "4単位",
-        "person": "牛田 俊",
+        "person": "宮部 正洋, EDM専攻幹事",
         "numbering": "F2C00201"
     },
     {
