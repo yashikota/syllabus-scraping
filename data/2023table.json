@@ -6160,17 +6160,6 @@
         "numbering": "16CC06B0"
     },
     {
-        "lecture_title": "空気調和制御・演習",
-        "department": "工学部 環境工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "月曜日\\n月曜日",
-        "period": "3時限\\n4時限",
-        "credit": "3単位",
-        "person": "髙山 成",
-        "numbering": "16CC08A0"
-    },
-    {
         "lecture_title": "設備電力通論",
         "department": "工学部 環境工学科",
         "year": "2年次",
@@ -6312,17 +6301,6 @@
         "credit": "2単位",
         "person": "渡邊 信久, 石川 宗孝, 岡本 覚, 蜂谷 彰啓, 酒井 伸一, 吉田 篤正",
         "numbering": "16CE03A0"
-    },
-    {
-        "lecture_title": "空気調和制御・演習",
-        "department": "工学部 環境工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "月曜日\\n月曜日",
-        "period": "3時限\\n4時限",
-        "credit": "3単位",
-        "person": "髙山 成",
-        "numbering": "16CE04A0"
     },
     {
         "lecture_title": "エネルギー機能材料",
