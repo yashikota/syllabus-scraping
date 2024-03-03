@@ -20768,17 +20768,6 @@
         "numbering": "2ACA01A0"
     },
     {
-        "lecture_title": "法学入門",
-        "department": "知的財産学部 知的財産学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "松井 章浩",
-        "numbering": "2ACA02A0"
-    },
-    {
         "lecture_title": "民事訴訟法",
         "department": "知的財産学部 知的財産学科",
         "year": "2年次",
@@ -20854,39 +20843,6 @@
         "credit": "2単位",
         "person": "亀田 悠斗",
         "numbering": "2ACA11A0"
-    },
-    {
-        "lecture_title": "企業法務概論",
-        "department": "知的財産学部 知的財産学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "越智 統之",
-        "numbering": "2ACA12A0"
-    },
-    {
-        "lecture_title": "独占禁止法",
-        "department": "知的財産学部 知的財産学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "岩本 章吾",
-        "numbering": "2ACA13A0"
-    },
-    {
-        "lecture_title": "経済学入門",
-        "department": "知的財産学部 知的財産学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "熊川 剛久",
-        "numbering": "2ACA14A0"
     },
     {
         "lecture_title": "企業経済学I",
@@ -21272,28 +21228,6 @@
         "credit": "2単位",
         "person": "五丁 龍志, 十河 誠治",
         "numbering": "2ACF11A0"
-    },
-    {
-        "lecture_title": "マーケティングとブランド",
-        "department": "知的財産学部 知的財産学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "石川 克司",
-        "numbering": "2ACF12A0"
-    },
-    {
-        "lecture_title": "ブランドマネジメント",
-        "department": "知的財産学部 知的財産学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "西井 光治",
-        "numbering": "2ACF13A0"
     },
     {
         "lecture_title": "デザインマネジメント",
@@ -40707,7 +40641,7 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "妻鳥 淳彦",
+        "person": "妻鳥 淳彦, 鎌野 健",
         "numbering": "E4C002M0"
     },
     {
@@ -40828,7 +40762,7 @@
         "dow": "金曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "妻鳥 淳彦",
+        "person": "妻鳥 淳彦, 鎌野 健",
         "numbering": "E4C005K0"
     },
     {
@@ -40894,7 +40828,7 @@
         "dow": "金曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "妻鳥 淳彦",
+        "person": "妻鳥 淳彦, 鎌野 健",
         "numbering": "E4C006K0"
     },
     {
@@ -40927,7 +40861,7 @@
         "dow": "水曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "妻鳥 淳彦",
+        "person": "妻鳥 淳彦, 鎌野 健",
         "numbering": "E4C006M0"
     },
     {
