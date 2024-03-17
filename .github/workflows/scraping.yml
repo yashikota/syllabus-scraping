@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 10 * * 0" #毎週日曜日19時に実行(JST)
 
-env:
-  DEST_BRANCH: master
-
 jobs:
   build:
     runs-on: ubuntu-latest
