@@ -2,7 +2,8 @@ name: "scraping"
 
 on:
   schedule:
-    - cron: "0 10 * * 0" #毎週日曜日19時に実行(JST)
+    # - cron: "0 10 * * 0" # 毎週日曜日19時に実行(JST)
+    - cron: "0 10 * * *" # 毎日19時に実行(JST)
 
 jobs:
   build:
