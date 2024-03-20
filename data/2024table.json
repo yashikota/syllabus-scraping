@@ -31581,6 +31581,50 @@
         "numbering": "A3C011C1"
     },
     {
+        "lecture_title": "物理学a(エンジニアリング系)3組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "木曜日",
+        "period": "2時限",
+        "credit": "2単位",
+        "person": "岡村 多加志",
+        "numbering": "A3C011C2"
+    },
+    {
+        "lecture_title": "物理学a(エンジニアリング系)イ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "木曜日",
+        "period": "4時限",
+        "credit": "2単位",
+        "person": "平野 裕一",
+        "numbering": "A3C011D0"
+    },
+    {
+        "lecture_title": "物理学a(エンジニアリング系)ロ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "木曜日",
+        "period": "4時限",
+        "credit": "2単位",
+        "person": "岡村 多加志",
+        "numbering": "A3C011D1"
+    },
+    {
+        "lecture_title": "物理学a(エンジニアリング系)イ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "火曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "吉田 福蔵",
+        "numbering": "A3C011F0"
+    },
+    {
         "lecture_title": "物理学a(エンジニアリング系)ロ組",
         "department": "工学部 工学の基礎",
         "year": "1年次",
