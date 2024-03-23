@@ -9071,39 +9071,6 @@
         "dow": "木曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "本田 澄",
-        "numbering": "1BAL29I0"
-    },
-    {
-        "lecture_title": "情報ゼミナール",
-        "department": "情報科学部 情報システム学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "尾花 将輝",
-        "numbering": "1BAL29I1"
-    },
-    {
-        "lecture_title": "情報ゼミナール",
-        "department": "情報科学部 情報システム学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "皆川 健多郎",
-        "numbering": "1BAL29I2"
-    },
-    {
-        "lecture_title": "情報ゼミナール",
-        "department": "情報科学部 情報システム学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
         "person": "地嵜 頌子",
         "numbering": "1BAL29J0"
     },
@@ -13141,7 +13108,7 @@
         "dow": "火曜日\\n火曜日",
         "period": "3時限\\n4時限",
         "credit": "2単位",
-        "person": "河北 真宏, 佐野 睦夫, 橋本 渉, 神田 智子, 鈴木 基之, 村木 祐太, 福島 拓",
+        "person": "橋本 渉, 佐野 睦夫, 河北 真宏, 神田 智子, 鈴木 基之, 村木 祐太, 福島 拓",
         "numbering": "1CAN09A0"
     },
     {
@@ -13198,17 +13165,6 @@
         "credit": "2単位",
         "person": "真鍋 征秀",
         "numbering": "1CBA03B0"
-    },
-    {
-        "lecture_title": "微積分学I",
-        "department": "情報科学部 情報メディア学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "白畑 正芳",
-        "numbering": "1CBA03C0"
     },
     {
         "lecture_title": "情報数学",
@@ -13385,17 +13341,6 @@
         "credit": "2単位",
         "person": "尾花 将輝",
         "numbering": "1CBD13A0"
-    },
-    {
-        "lecture_title": "ソフトウェア工学II",
-        "department": "情報科学部 情報メディア学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "井垣 宏",
-        "numbering": "1CBD14A0"
     },
     {
         "lecture_title": "コンピュータグラフィックスI",
@@ -13629,17 +13574,6 @@
         "numbering": "1CCA09A0"
     },
     {
-        "lecture_title": "プログラミング基礎",
-        "department": "情報科学部 情報メディア学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "水谷 泰治",
-        "numbering": "1CCB03A0"
-    },
-    {
         "lecture_title": "ディジタル回路",
         "department": "情報科学部 情報メディア学科",
         "year": "1年次",
@@ -13803,17 +13737,6 @@
         "credit": "2単位",
         "person": "河合 紀彦",
         "numbering": "1CCE03A0"
-    },
-    {
-        "lecture_title": "人間情報学",
-        "department": "情報科学部 情報メディア学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "神田 智子, 福島 拓",
-        "numbering": "1CCE04A0"
     },
     {
         "lecture_title": "構造化文書処理",
@@ -14012,17 +13935,6 @@
         "credit": "1単位",
         "person": "平山 亮",
         "numbering": "1CCH10A0"
-    },
-    {
-        "lecture_title": "情報科学実践演習(国内PBL)a",
-        "department": "情報科学部 情報メディア学科",
-        "year": "2年次",
-        "term": "前期集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "尾崎 敦夫, 杉川 智, 本田 澄, 河合 紀彦",
-        "numbering": "1CCH11A0"
     },
     {
         "lecture_title": "情報科学実践演習(国内PBL)b",
