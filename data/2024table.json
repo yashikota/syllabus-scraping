@@ -23287,6 +23287,17 @@
         "numbering": "3CCA09L0"
     },
     {
+        "lecture_title": "形式言語とオートマトン【後半】",
+        "department": "ロボティクス&デザイン工学部 ロボット工学科",
+        "year": "1年次",
+        "term": "後期(後半)",
+        "dow": "火曜日\\n木曜日",
+        "period": "3時限\\n3時限",
+        "credit": "2単位",
+        "person": "越智 徹",
+        "numbering": "3CCB01L0"
+    },
+    {
         "lecture_title": "離散数学【後半】",
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "2年次",
@@ -23670,6 +23681,17 @@
         "credit": "2単位",
         "person": "東 善之",
         "numbering": "3CCG05L0"
+    },
+    {
+        "lecture_title": "アルゴリズムとデータ構造【後半】",
+        "department": "ロボティクス&デザイン工学部 ロボット工学科",
+        "year": "1年次",
+        "term": "後期(後半)",
+        "dow": "火曜日\\n木曜日",
+        "period": "3時限\\n3時限",
+        "credit": "2単位",
+        "person": "越智 徹",
+        "numbering": "3CCH01L0"
     },
     {
         "lecture_title": "計算機アーキテクチャ【後半】",
@@ -34393,7 +34415,7 @@
         "dow": "木曜日",
         "period": "4時限",
         "credit": "1単位",
-        "person": "増田 快晴, 川上 雅士, 竹内 壽男",
+        "person": "奥 宏史, 川上 雅士, 竹内 壽男",
         "numbering": "AYC002F0"
     },
     {
