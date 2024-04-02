@@ -3476,28 +3476,6 @@
         "numbering": "13CA11A0"
     },
     {
-        "lecture_title": "自動車工学",
-        "department": "工学部 機械工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "石田 哲朗",
-        "numbering": "13CA12A0"
-    },
-    {
-        "lecture_title": "機械工学演習I(Zコース)",
-        "department": "工学部 機械工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "1時限",
-        "credit": "1単位",
-        "person": "井原 之敏, 上辻 靖智, 山浦 真一",
-        "numbering": "13CA14A0"
-    },
-    {
         "lecture_title": "機械工学演習II(Zコース)",
         "department": "工学部 機械工学科",
         "year": "3年次",
@@ -3661,17 +3639,6 @@
         "credit": "1単位",
         "person": "宮部 正洋, 近藤 隆路, 鵜飼 孝博",
         "numbering": "13CA25A0"
-    },
-    {
-        "lecture_title": "機械のAI",
-        "department": "工学部 機械工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "西川 出",
-        "numbering": "13CA26A0"
     },
     {
         "lecture_title": "製図学",
@@ -16771,7 +16738,7 @@
         "dow": "木曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "樫原 茂, 笠井 則充",
+        "person": "樫原 茂, 笠井 則充, 笠井 則充",
         "numbering": "1FAB05B0"
     },
     {
@@ -22649,17 +22616,6 @@
         "numbering": "3BCB12K0"
     },
     {
-        "lecture_title": "建築環境工学I",
-        "department": "ロボティクス&デザイン工学部 空間デザイン学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "坂口 佳史",
-        "numbering": "3BCB13K0"
-    },
-    {
         "lecture_title": "建築環境工学II",
         "department": "ロボティクス&デザイン工学部 空間デザイン学科",
         "year": "2年次",
@@ -22768,17 +22724,6 @@
         "credit": "2単位",
         "person": "白髪 誠一",
         "numbering": "3BCB24K0"
-    },
-    {
-        "lecture_title": "建築環境工学I",
-        "department": "ロボティクス&デザイン工学部 空間デザイン学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "坂口 佳史",
-        "numbering": "3BCB25K0"
     },
     {
         "lecture_title": "建築環境工学II",
@@ -37158,17 +37103,6 @@
         "numbering": "B3C018A0"
     },
     {
-        "lecture_title": "OIT概論",
-        "department": "情報科学部 共通科目",
-        "year": "1年次",
-        "term": "集中",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "1単位",
-        "person": "指導教員",
-        "numbering": "B3C019A0"
-    },
-    {
         "lecture_title": "基礎ゼミナール",
         "department": "情報科学部 共通科目",
         "year": "1年次",
@@ -41908,39 +41842,6 @@
         "credit": "2単位",
         "person": "鳥居 隆",
         "numbering": "E4C010L0"
-    },
-    {
-        "lecture_title": "物理学IIロ組【前半】",
-        "department": "ロボティクス&デザイン工学部 共通科目",
-        "year": "1年次",
-        "term": "後期(前半)",
-        "dow": "水曜日\\n金曜日",
-        "period": "3時限\\n2時限",
-        "credit": "2単位",
-        "person": "明 孝之",
-        "numbering": "E4C010L1"
-    },
-    {
-        "lecture_title": "物理学IIイ組【前半】",
-        "department": "ロボティクス&デザイン工学部 共通科目",
-        "year": "1年次",
-        "term": "後期(前半)",
-        "dow": "水曜日\\n金曜日",
-        "period": "2時限\\n1時限",
-        "credit": "2単位",
-        "person": "鳥居 隆",
-        "numbering": "E4C010M0"
-    },
-    {
-        "lecture_title": "物理学IIロ組【前半】",
-        "department": "ロボティクス&デザイン工学部 共通科目",
-        "year": "1年次",
-        "term": "後期(前半)",
-        "dow": "水曜日\\n金曜日",
-        "period": "2時限\\n1時限",
-        "credit": "2単位",
-        "person": "明 孝之",
-        "numbering": "E4C010M1"
     },
     {
         "lecture_title": "物理学実験",
