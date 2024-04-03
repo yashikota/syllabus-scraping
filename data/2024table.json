@@ -1100,7 +1100,7 @@
         "numbering": "11AA12A0"
     },
     {
-        "lecture_title": "構造力学IIA・B・C・D組",
+        "lecture_title": "構造力学IIA・B・C組",
         "department": "工学部 建築学科",
         "year": "1年次",
         "term": "後期",
@@ -1606,7 +1606,7 @@
         "numbering": "11BD27A0"
     },
     {
-        "lecture_title": "構造力学IIIA・B・C・D組",
+        "lecture_title": "構造力学IIIA・B・C組",
         "department": "工学部 建築学科",
         "year": "2年次",
         "term": "前期",
@@ -2075,7 +2075,7 @@
         "dow": "土曜日\\n土曜日",
         "period": "1時限\\n1時限",
         "credit": "2単位",
-        "person": "髙畑 雅一, 寺地 洋之",
+        "person": "髙畑 雅一",
         "numbering": "11CF04A0"
     },
     {
@@ -2086,7 +2086,7 @@
         "dow": "土曜日\\n土曜日",
         "period": "3時限\\n3時限",
         "credit": "2単位",
-        "person": "髙畑 雅一, 寺地 洋之",
+        "person": "髙畑 雅一",
         "numbering": "11CF04B0"
     },
     {
@@ -2306,7 +2306,7 @@
         "dow": "月曜日",
         "period": "5時限",
         "credit": "2単位",
-        "person": "重弘 裕二, 眞銅 雅子",
+        "person": "重弘 裕二, 吉田 恵一郎, 眞銅 雅子",
         "numbering": "12BA02A0"
     },
     {
@@ -3476,6 +3476,28 @@
         "numbering": "13CA11A0"
     },
     {
+        "lecture_title": "自動車工学",
+        "department": "工学部 機械工学科",
+        "year": "3年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "石田 哲朗",
+        "numbering": "13CA12A0"
+    },
+    {
+        "lecture_title": "機械工学演習I(Zコース)",
+        "department": "工学部 機械工学科",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "井原 之敏, 上辻 靖智, 山浦 真一",
+        "numbering": "13CA14A0"
+    },
+    {
         "lecture_title": "機械工学演習II(Zコース)",
         "department": "工学部 機械工学科",
         "year": "3年次",
@@ -3639,6 +3661,17 @@
         "credit": "1単位",
         "person": "宮部 正洋, 近藤 隆路, 鵜飼 孝博",
         "numbering": "13CA25A0"
+    },
+    {
+        "lecture_title": "機械のAI",
+        "department": "工学部 機械工学科",
+        "year": "3年次",
+        "term": "前期",
+        "dow": "木曜日",
+        "period": "2時限",
+        "credit": "2単位",
+        "person": "西川 出",
+        "numbering": "13CA26A0"
     },
     {
         "lecture_title": "製図学",
@@ -5969,7 +6002,7 @@
         "dow": "金曜日\\n金曜日",
         "period": "1時限\\n1時限",
         "credit": "3単位",
-        "person": "古崎 康哲, 釜本 洋子, 辻井 里美, 佐藤 牧紀",
+        "person": "古崎 康哲, ルー インチン, 釜本 洋子, 辻井 里美, 佐藤 牧紀",
         "numbering": "16CL01A0"
     },
     {
@@ -21358,7 +21391,7 @@
         "dow": "金曜日\\n金曜日\\n金曜日",
         "period": "2時限\\n2時限\\n2時限",
         "credit": "6単位",
-        "person": "甲野 正道, 山中 弘美",
+        "person": "甲野 正道",
         "numbering": "2ACD12A0"
     },
     {
@@ -21468,7 +21501,7 @@
         "dow": "金曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "内藤 浩樹, 未定",
+        "person": "内藤 浩樹, 荒田 秀明, 小田 晃寛, 瀬川 左英, 冨井 美希, 松田 将治",
         "numbering": "2ACF10A0"
     },
     {
@@ -30235,7 +30268,7 @@
         "dow": "月曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "神代 真也",
+        "person": "塚本 達也",
         "numbering": "A3C002B0"
     },
     {
@@ -30290,7 +30323,7 @@
         "dow": "木曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "森田 博文",
+        "person": "尾形 健一",
         "numbering": "A3C002C2"
     },
     {
@@ -30433,7 +30466,7 @@
         "dow": "金曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "佐藤 悠介",
+        "person": "神代 真也",
         "numbering": "A3C003B1"
     },
     {
@@ -30466,7 +30499,7 @@
         "dow": "水曜日",
         "period": "1時限",
         "credit": "2単位",
-        "person": "岸本 健吾",
+        "person": "佐藤 悠介",
         "numbering": "A3C003C1"
     },
     {
@@ -30543,7 +30576,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "佐藤 悠介",
+        "person": "岸本 健吾",
         "numbering": "A3C003G1"
     },
     {
@@ -30642,7 +30675,7 @@
         "dow": "月曜日",
         "period": "4時限",
         "credit": "1単位",
-        "person": "佐藤 悠介",
+        "person": "神代 真也",
         "numbering": "A3C004C1"
     },
     {
@@ -30675,7 +30708,7 @@
         "dow": "月曜日",
         "period": "2時限",
         "credit": "1単位",
-        "person": "白井 慎一",
+        "person": "神代 真也",
         "numbering": "A3C004D1"
     },
     {
@@ -30950,7 +30983,7 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "岸本 健吾",
+        "person": "佐藤 悠介",
         "numbering": "A3C007A0"
     },
     {
@@ -30972,7 +31005,7 @@
         "dow": "水曜日",
         "period": "4時限",
         "credit": "2単位",
-        "person": "丸井 洋子",
+        "person": "岸本 健吾",
         "numbering": "A3C007B0"
     },
     {
@@ -31027,7 +31060,7 @@
         "dow": "火曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "塚本 達也",
+        "person": "岸本 健吾",
         "numbering": "A3C007C2"
     },
     {
@@ -31049,7 +31082,7 @@
         "dow": "火曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "神代 真也",
+        "person": "佐藤 悠介",
         "numbering": "A3C007D1"
     },
     {
@@ -31071,7 +31104,7 @@
         "dow": "水曜日",
         "period": "2時限",
         "credit": "2単位",
-        "person": "服部 哲也",
+        "person": "神代 真也",
         "numbering": "A3C007F1"
     },
     {
@@ -31159,7 +31192,7 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "丸井 洋子",
+        "person": "神代 真也",
         "numbering": "A3C008A1"
     },
     {
@@ -33095,7 +33128,7 @@
         "dow": "水曜日",
         "period": "3時限",
         "credit": "2単位",
-        "person": "神代 真也",
+        "person": "岸本 健吾",
         "numbering": "A3C025A0"
     },
     {
@@ -39145,7 +39178,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "瀧川 宏樹",
+        "person": "村尾 純子",
         "numbering": "C3C015B0"
     },
     {
@@ -39156,7 +39189,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "瀧川 宏樹",
+        "person": "村尾 純子",
         "numbering": "C3C015C0"
     },
     {
@@ -39816,7 +39849,7 @@
         "dow": "月曜日",
         "period": "5時限",
         "credit": "1単位",
-        "person": "杉浦 淳, 伊藤 宏幸, 茂木 祐輔, 榎本 吉孝",
+        "person": "杉浦 淳, 伊藤 宏幸, 茂木 祐輔",
         "numbering": "CYC009A0"
     },
     {
@@ -41842,6 +41875,39 @@
         "credit": "2単位",
         "person": "鳥居 隆",
         "numbering": "E4C010L0"
+    },
+    {
+        "lecture_title": "物理学IIロ組【前半】",
+        "department": "ロボティクス&デザイン工学部 共通科目",
+        "year": "1年次",
+        "term": "後期(前半)",
+        "dow": "水曜日\\n金曜日",
+        "period": "3時限\\n2時限",
+        "credit": "2単位",
+        "person": "明 孝之",
+        "numbering": "E4C010L1"
+    },
+    {
+        "lecture_title": "物理学IIイ組【前半】",
+        "department": "ロボティクス&デザイン工学部 共通科目",
+        "year": "1年次",
+        "term": "後期(前半)",
+        "dow": "水曜日\\n金曜日",
+        "period": "2時限\\n1時限",
+        "credit": "2単位",
+        "person": "鳥居 隆",
+        "numbering": "E4C010M0"
+    },
+    {
+        "lecture_title": "物理学IIロ組【前半】",
+        "department": "ロボティクス&デザイン工学部 共通科目",
+        "year": "1年次",
+        "term": "後期(前半)",
+        "dow": "水曜日\\n金曜日",
+        "period": "2時限\\n1時限",
+        "credit": "2単位",
+        "person": "明 孝之",
+        "numbering": "E4C010M1"
     },
     {
         "lecture_title": "物理学実験",
