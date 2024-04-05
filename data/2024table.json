@@ -22649,6 +22649,17 @@
         "numbering": "3BCB12K0"
     },
     {
+        "lecture_title": "建築環境工学I",
+        "department": "ロボティクス&デザイン工学部 空間デザイン学科",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "4時限",
+        "credit": "2単位",
+        "person": "坂口 佳史",
+        "numbering": "3BCB13K0"
+    },
+    {
         "lecture_title": "建築環境工学II",
         "department": "ロボティクス&デザイン工学部 空間デザイン学科",
         "year": "2年次",
@@ -22757,6 +22768,17 @@
         "credit": "2単位",
         "person": "白髪 誠一",
         "numbering": "3BCB24K0"
+    },
+    {
+        "lecture_title": "建築環境工学I",
+        "department": "ロボティクス&デザイン工学部 空間デザイン学科",
+        "year": "3年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "4時限",
+        "credit": "2単位",
+        "person": "坂口 佳史",
+        "numbering": "3BCB25K0"
     },
     {
         "lecture_title": "建築環境工学II",
