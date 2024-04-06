@@ -1,5 +1,7 @@
 # syllabus-scraping
 
+[OITシラバスアプリ](https://syllabus.oit.yashikota.com)のデータスクレイピング用リポジトリです。  
+
 ## scraping
 
 ```sh
