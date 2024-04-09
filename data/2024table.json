@@ -4763,6 +4763,17 @@
         "numbering": "15AA02A0"
     },
     {
+        "lecture_title": "電子情報通信実験IB組",
+        "department": "工学部 電子情報通信工学科",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "水曜日\\n水曜日",
+        "period": "3時限\\n3時限",
+        "credit": "2単位",
+        "person": "安國 良平, 神村 共住, 原嶋 勝美, 廣芝 伸哉, 金城 良太, 谷垣 勇輝",
+        "numbering": "15AA02B0"
+    },
+    {
         "lecture_title": "電子情報通信実験IIB組",
         "department": "工学部 電子情報通信工学科",
         "year": "2年次",
@@ -12252,83 +12263,6 @@
         "credit": "4単位",
         "person": "福島 拓",
         "numbering": "1CAK02Q1"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "村木 祐太",
-        "numbering": "1CAK02R0"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "河合 紀彦",
-        "numbering": "1CAK02R1"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "大島 一能",
-        "numbering": "1CAK02S0"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "酒澤 茂之",
-        "numbering": "1CAK02S1"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "塚本 勝俊",
-        "numbering": "1CAK02T0"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "福澤 寧子",
-        "numbering": "1CAK02T1"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "4単位",
-        "person": "安留 誠吾",
-        "numbering": "1CAK02U0"
     },
     {
         "lecture_title": "卒業研究",
@@ -30943,6 +30877,50 @@
         "numbering": "A3C006C2"
     },
     {
+        "lecture_title": "解析学III演習(エンジニアリング系)イ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "木曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "佐藤 悠介",
+        "numbering": "A3C006D0"
+    },
+    {
+        "lecture_title": "解析学III演習(エンジニアリング系)ロ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "木曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "岸本 健吾",
+        "numbering": "A3C006D1"
+    },
+    {
+        "lecture_title": "解析学III演習(エンジニアリング系)イ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "火曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "白井 慎一",
+        "numbering": "A3C006F0"
+    },
+    {
+        "lecture_title": "解析学III演習(エンジニアリング系)ロ組",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "火曜日",
+        "period": "4時限",
+        "credit": "1単位",
+        "person": "栗屋 隆仁",
+        "numbering": "A3C006F1"
+    },
+    {
         "lecture_title": "線形代数学Iイ組",
         "department": "工学部 工学の基礎",
         "year": "1年次",
@@ -42801,6 +42779,17 @@
         "numbering": "M8AA07A0"
     },
     {
+        "lecture_title": "情報科学特論C",
+        "department": "情報科学研究科 情報科学専攻",
+        "year": "1年次",
+        "term": "前期(前半)",
+        "dow": "火曜日",
+        "period": "5時限",
+        "credit": "1単位",
+        "person": "橋本 渉, 奥野 弘嗣, 坂平 文博, 島野 顕継, 神納 貴生, 福島 拓, 宮本 俊幸",
+        "numbering": "M8CA10A0"
+    },
+    {
         "lecture_title": "情報科学特論D",
         "department": "情報科学研究科 情報科学専攻",
         "year": "1年次",
@@ -42997,6 +42986,17 @@
         "credit": "1単位",
         "person": "濵田 悦生",
         "numbering": "M8CJ23A0"
+    },
+    {
+        "lecture_title": "データサイエンス特論",
+        "department": "情報科学研究科 情報科学専攻",
+        "year": "1年次",
+        "term": "前期集中",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "1単位",
+        "person": "佐野 睦夫",
+        "numbering": "M8CJ24A0"
     },
     {
         "lecture_title": "データマイニング特論a",
