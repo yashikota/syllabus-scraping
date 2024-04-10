@@ -12272,6 +12272,83 @@
         "dow": "その他",
         "period": "その他",
         "credit": "4単位",
+        "person": "村木 祐太",
+        "numbering": "1CAK02R0"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "河合 紀彦",
+        "numbering": "1CAK02R1"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "大島 一能",
+        "numbering": "1CAK02S0"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "酒澤 茂之",
+        "numbering": "1CAK02S1"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "塚本 勝俊",
+        "numbering": "1CAK02T0"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "福澤 寧子",
+        "numbering": "1CAK02T1"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
+        "person": "安留 誠吾",
+        "numbering": "1CAK02U0"
+    },
+    {
+        "lecture_title": "卒業研究",
+        "department": "情報科学部 情報メディア学科",
+        "year": "\"\"",
+        "term": "通年(卒研)",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "4単位",
         "person": "山内 雪路",
         "numbering": "1CAK02U1"
     },
