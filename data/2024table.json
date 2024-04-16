@@ -869,6 +869,17 @@
         "numbering": "11A001B3"
     },
     {
+        "lecture_title": "静定構造力学演習A・B・C組",
+        "department": "工学部 建築学科",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "木曜日\\n木曜日",
+        "period": "3時限\\n3時限",
+        "credit": "2単位",
+        "person": "林 暁光, 馬場 望, 権 淳日",
+        "numbering": "11AA03A0"
+    },
+    {
         "lecture_title": "材料力学演習A・B・C・D組",
         "department": "工学部 建築学科",
         "year": "1年次",
@@ -2079,6 +2090,17 @@
         "numbering": "11CF04B0"
     },
     {
+        "lecture_title": "測量学・同演習",
+        "department": "工学部 建築学科",
+        "year": "4年次",
+        "term": "前期",
+        "dow": "土曜日\\n土曜日",
+        "period": "1時限\\n1時限",
+        "credit": "2単位",
+        "person": "権 淳日, 谷出 雅人, 中濵 雅己",
+        "numbering": "11CF07A0"
+    },
+    {
         "lecture_title": "建築概論",
         "department": "工学部 建築学科",
         "year": "1年次",
@@ -2088,6 +2110,17 @@
         "credit": "2単位",
         "person": "寺地 洋之, 河野 良坪, 権 淳日, 今川 光",
         "numbering": "11CF13A0"
+    },
+    {
+        "lecture_title": "測量学I・同演習(前半)",
+        "department": "工学部 建築学科",
+        "year": "4年次",
+        "term": "前期(前半)",
+        "dow": "土曜日\\n土曜日",
+        "period": "1時限\\n1時限",
+        "credit": "1単位",
+        "person": "権 淳日, 谷出 雅人, 中濵 雅己",
+        "numbering": "11CF14A0"
     },
     {
         "lecture_title": "測量学II・同演習(後半)",
@@ -28631,6 +28664,50 @@
         "credit": "1単位",
         "person": "大塚 生子",
         "numbering": "A1C007C0"
+    },
+    {
+        "lecture_title": "工学コミュニケーション英語基礎aB組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "火曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "松田 亜樹, 大塚 生子",
+        "numbering": "A1C007C1"
+    },
+    {
+        "lecture_title": "工学コミュニケーション英語基礎aC組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "火曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "真田 里恵, 大塚 生子",
+        "numbering": "A1C007C2"
+    },
+    {
+        "lecture_title": "工学コミュニケーション英語基礎aD組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "火曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "中桐 謙一郎, 大塚 生子",
+        "numbering": "A1C007C3"
+    },
+    {
+        "lecture_title": "工学コミュニケーション英語基礎aA組",
+        "department": "工学部 キャリア形成の基礎",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "水曜日",
+        "period": "3時限",
+        "credit": "1単位",
+        "person": "松田 亜樹, 大塚 生子",
+        "numbering": "A1C007D0"
     },
     {
         "lecture_title": "工学コミュニケーション英語基礎aB組",
