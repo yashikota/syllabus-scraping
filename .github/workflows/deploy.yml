@@ -2,8 +2,8 @@ name: "deploy"
 
 on:
   schedule:
-    # - cron: "0 11 * * 0" # 毎週日曜日20時に実行(JST)
-    - cron: "0 11 * * *" # 毎日20時に実行(JST)
+    - cron: "0 11 * * 0" # 毎週日曜日20時に実行(JST)
+    # - cron: "0 11 * * *" # 毎日20時に実行(JST)
 
 jobs:
   publish:
