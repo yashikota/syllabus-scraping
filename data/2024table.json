@@ -319,6 +319,17 @@
         "numbering": "10BA13B0"
     },
     {
+        "lecture_title": "景観工学演習",
+        "department": "工学部 都市デザイン工学科",
+        "year": "2年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "田中 一成",
+        "numbering": "10BB02A0"
+    },
+    {
         "lecture_title": "計画学a演習イ組",
         "department": "工学部 都市デザイン工学科",
         "year": "2年次",
@@ -339,6 +350,28 @@
         "credit": "1単位",
         "person": "西堀 泰英",
         "numbering": "10BB07B0"
+    },
+    {
+        "lecture_title": "構造力学a演習イ組",
+        "department": "工学部 都市デザイン工学科",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "三方 康弘",
+        "numbering": "10BC02A0"
+    },
+    {
+        "lecture_title": "構造力学a演習ロ組",
+        "department": "工学部 都市デザイン工学科",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "今川 雄亮",
+        "numbering": "10BC02B0"
     },
     {
         "lecture_title": "構造力学b演習イ組",
@@ -416,6 +449,17 @@
         "credit": "1単位",
         "person": "藤本 哲生",
         "numbering": "10BE04A0"
+    },
+    {
+        "lecture_title": "水理学a演習",
+        "department": "工学部 都市デザイン工学科",
+        "year": "2年次",
+        "term": "前期",
+        "dow": "金曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "東 良慶",
+        "numbering": "10BF02A0"
     },
     {
         "lecture_title": "水理学b演習",
@@ -550,6 +594,17 @@
         "numbering": "10CB08A0"
     },
     {
+        "lecture_title": "社会資本計画学",
+        "department": "工学部 都市デザイン工学科",
+        "year": "4年次",
+        "term": "前期",
+        "dow": "水曜日",
+        "period": "4時限",
+        "credit": "2単位",
+        "person": "山口 行一",
+        "numbering": "10CB09A0"
+    },
+    {
         "lecture_title": "交通計画学",
         "department": "工学部 都市デザイン工学科",
         "year": "3年次",
@@ -603,6 +658,17 @@
         "credit": "2単位",
         "person": "大山 理",
         "numbering": "10CC14A0"
+    },
+    {
+        "lecture_title": "鉄筋コンクリート工学",
+        "department": "工学部 都市デザイン工学科",
+        "year": "3年次",
+        "term": "前期",
+        "dow": "水曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "三方 康弘",
+        "numbering": "10CD02A0"
     },
     {
         "lecture_title": "コンクリート構造学",
@@ -713,6 +779,17 @@
         "credit": "2単位",
         "person": "所 千夏",
         "numbering": "10DG01A0"
+    },
+    {
+        "lecture_title": "建築法規",
+        "department": "工学部 都市デザイン工学科",
+        "year": "4年次",
+        "term": "後期",
+        "dow": "土曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "田村 元",
+        "numbering": "10DG02A0"
     },
     {
         "lecture_title": "建築生産",
@@ -37627,7 +37704,7 @@
         "dow": "その他",
         "period": "その他",
         "credit": "2単位",
-        "person": "長谷川 陽一",
+        "person": "長谷川 陽一, 酒井 恵子",
         "numbering": "BTD024A1"
     },
     {
@@ -45052,7 +45129,7 @@
         "dow": "木曜日",
         "period": "3時限",
         "credit": "1単位",
-        "person": "北川 創, 伊藤 宏幸",
+        "person": "伊藤 宏幸, 榎本 吉孝",
         "numbering": "MPCD44A0"
     },
     {
@@ -45063,7 +45140,7 @@
         "dow": "木曜日",
         "period": "7時限",
         "credit": "1単位",
-        "person": "北川 創, 伊藤 宏幸",
+        "person": "榎本 吉孝, 伊藤 宏幸",
         "numbering": "MPCD44M0"
     },
     {
