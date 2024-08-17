@@ -12,7 +12,7 @@ def get_data(year: str) -> list:
     """
     return (
         urllib.request.urlopen(
-            f"https://raw.githubusercontent.com/oit-tools/syllabus-extract/master/data/{year}.csv"
+            f"https://raw.githubusercontent.com/yashikota/syllabus-extract/master/data/{year}.csv"
         )
         .read()
         .decode("utf-8")
