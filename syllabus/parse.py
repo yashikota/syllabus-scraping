@@ -65,10 +65,16 @@ class Parser:
             self.values.append(today)
             # 講義名等を取得
             self.values.extend([enter[0][i] for i in range(len(enter[0]))])
+            # 年度が空の場合
+            if self.values[3] == "":
+                self.values[3] = "記載なし"
             # 単位を付与
             self.values[4] += "単位"
             # 担当者名のよみがな削除
-            self.values[6] = re.sub(r"\(.+?\)", "", self.values[6]).replace("  ", ", ")
+            self.values[6] = re.sub(r"\(.+?\)", "", self.values[6])
+            self.values[6] = [i.strip() for i in self.values[6].split("  ")]
+            if self.values[6] == [""]:
+                self.values[6] = ["記載なし"]
             # 講義コードをurlから抽出し、追加
             numbering = re.search(r"\w{8}(?=&value)", url).group()
             self.values.append(numbering)
@@ -77,9 +83,11 @@ class Parser:
             # URL追加
             self.values.append(url)
             # 曜日
-            self.values.append(dow)
+            dows = [i.strip() for i in dow.split(" ")]
+            self.values.append(dows)
             # 時限
-            self.values.append(period)
+            periods = [i.strip() for i in period.split(" ")]
+            self.values.append(periods)
             # 授業のねらい/概要
             self.values.append(enter[2][0])
             # CSコース
