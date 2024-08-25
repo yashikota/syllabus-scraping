@@ -539,6 +539,28 @@
         "numbering": "10CA15A0"
     },
     {
+        "lecture_title": "特別講義I",
+        "department": "工学部 都市デザイン工学科",
+        "year": "3年次",
+        "term": "前期",
+        "dow": "水曜日",
+        "period": "5時限",
+        "credit": "2単位",
+        "person": "西堀 泰英, 大山 理, 三方 康弘, 日置 和昭, 山口 行一, 東 良慶",
+        "numbering": "10CA17A0"
+    },
+    {
+        "lecture_title": "特別講義II",
+        "department": "工学部 都市デザイン工学科",
+        "year": "3年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "5時限",
+        "credit": "2単位",
+        "person": "田中 一成, 西堀 泰英, 三方 康弘, 日置 和昭, 山口 行一",
+        "numbering": "10CA18A0"
+    },
+    {
         "lecture_title": "建築・都市設計演習",
         "department": "工学部 都市デザイン工学科",
         "year": "4年次",
@@ -4706,633 +4728,6 @@
         "credit": "2単位",
         "person": "小林 正治",
         "numbering": "14CD10A0"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "工学部 電子情報通信工学科",
-        "year": "4年次",
-        "term": "通年(卒研)",
-        "dow": "その他",
-        "period": "その他",
-        "credit": "0単位",
-        "person": "卒研担当者, 奥 宏史",
-        "numbering": "15A002A0"
-    },
-    {
-        "lecture_title": "電子情報通信基礎演習ロ組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "松野 文俊",
-        "numbering": "15AA01A0"
-    },
-    {
-        "lecture_title": "電子情報通信基礎演習イ組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "松野 文俊",
-        "numbering": "15AA01B0"
-    },
-    {
-        "lecture_title": "電子情報通信基礎演習(再履修)",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "4時限",
-        "credit": "1単位",
-        "person": "松野 文俊",
-        "numbering": "15AA01C0"
-    },
-    {
-        "lecture_title": "電子情報通信実験IA組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "水曜日\\n水曜日",
-        "period": "1時限\\n1時限",
-        "credit": "2単位",
-        "person": "安國 良平, 神村 共住, 原嶋 勝美, 廣芝 伸哉, 金城 良太, 谷垣 勇輝",
-        "numbering": "15AA02A0"
-    },
-    {
-        "lecture_title": "電子情報通信実験IB組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "水曜日\\n水曜日",
-        "period": "3時限\\n3時限",
-        "credit": "2単位",
-        "person": "安國 良平, 神村 共住, 原嶋 勝美, 廣芝 伸哉, 金城 良太, 谷垣 勇輝",
-        "numbering": "15AA02B0"
-    },
-    {
-        "lecture_title": "電子情報通信実験IIB組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "水曜日\\n水曜日",
-        "period": "1時限\\n1時限",
-        "credit": "2単位",
-        "person": "安國 良平, 神村 共住, 原嶋 勝美, 廣芝 伸哉, 金城 良太, 谷垣 勇輝",
-        "numbering": "15AA03A0"
-    },
-    {
-        "lecture_title": "電子情報通信実験IIA組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "水曜日\\n水曜日",
-        "period": "3時限\\n3時限",
-        "credit": "2単位",
-        "person": "安國 良平, 神村 共住, 原嶋 勝美, 廣芝 伸哉, 金城 良太, 谷垣 勇輝",
-        "numbering": "15AA03B0"
-    },
-    {
-        "lecture_title": "電子情報通信実験IIIA組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "月曜日\\n月曜日",
-        "period": "1時限\\n1時限",
-        "credit": "2単位",
-        "person": "熊本 和夫, 周 虹, 小池 一歩, 奥 宏史, 川上 雅士, 安田 秀史",
-        "numbering": "15AA04A0"
-    },
-    {
-        "lecture_title": "電子情報通信実験IIIB組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "月曜日\\n月曜日",
-        "period": "3時限\\n3時限",
-        "credit": "2単位",
-        "person": "熊本 和夫, 周 虹, 小池 一歩, 奥 宏史, 川上 雅士, 安田 秀史",
-        "numbering": "15AA04B0"
-    },
-    {
-        "lecture_title": "エレクトロニクスプラクティスA組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "月曜日\\n月曜日",
-        "period": "3時限\\n3時限",
-        "credit": "2単位",
-        "person": "小池 一歩, 周 虹, 熊本 和夫, 松野 文俊, 藤村 真生, 川上 雅士, 細谷 基生那",
-        "numbering": "15AA05A0"
-    },
-    {
-        "lecture_title": "エレクトロニクスプラクティスB組",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "月曜日\\n月曜日",
-        "period": "1時限\\n1時限",
-        "credit": "2単位",
-        "person": "小池 一歩, 周 虹, 熊本 和夫, 松野 文俊, 藤村 真生, 川上 雅士, 細谷 基生那",
-        "numbering": "15AA05B0"
-    },
-    {
-        "lecture_title": "電気回路I",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "周 虹",
-        "numbering": "15AA06A0"
-    },
-    {
-        "lecture_title": "Re:電気回路I",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "吉田 福蔵",
-        "numbering": "15AA06B0"
-    },
-    {
-        "lecture_title": "電気回路II",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "金城 良太",
-        "numbering": "15AA07A0"
-    },
-    {
-        "lecture_title": "Re:電気回路II",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "金城 良太",
-        "numbering": "15AA07B0"
-    },
-    {
-        "lecture_title": "電気磁気学I",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "奥 宏史",
-        "numbering": "15CA08A0"
-    },
-    {
-        "lecture_title": "電気磁気学II",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "川上 雅士",
-        "numbering": "15CA09A0"
-    },
-    {
-        "lecture_title": "基礎電子回路I",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "廣芝 伸哉",
-        "numbering": "15CA10A0"
-    },
-    {
-        "lecture_title": "基礎電子回路II",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "小池 一歩",
-        "numbering": "15CA11A0"
-    },
-    {
-        "lecture_title": "固体エレクトロニクスI",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "安國 良平",
-        "numbering": "15CA12A0"
-    },
-    {
-        "lecture_title": "コンピュータ基礎",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "原嶋 勝美",
-        "numbering": "15CA13A0"
-    },
-    {
-        "lecture_title": "コンピュータアーキテクチャ",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "原嶋 勝美",
-        "numbering": "15CA14A0"
-    },
-    {
-        "lecture_title": "情報通信基礎",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "松野 文俊",
-        "numbering": "15CA15A0"
-    },
-    {
-        "lecture_title": "電気回路I演習",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "1単位",
-        "person": "神村 共住",
-        "numbering": "15CA16A0"
-    },
-    {
-        "lecture_title": "電気回路II演習",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "金城 良太",
-        "numbering": "15CA17A0"
-    },
-    {
-        "lecture_title": "電気磁気学演習",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "1時限",
-        "credit": "1単位",
-        "person": "川上 雅士",
-        "numbering": "15CA18A0"
-    },
-    {
-        "lecture_title": "電子回路演習",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "3時限",
-        "credit": "1単位",
-        "person": "吉田 福蔵",
-        "numbering": "15CA19A0"
-    },
-    {
-        "lecture_title": "プログラミング・同演習",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日\\n木曜日",
-        "period": "1時限\\n1時限",
-        "credit": "3単位",
-        "person": "藤村 真生, 金城 良太",
-        "numbering": "15CA21A0"
-    },
-    {
-        "lecture_title": "情報社会と倫理",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "越智 徹",
-        "numbering": "15CB01A0"
-    },
-    {
-        "lecture_title": "情報と職業",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "藤村 真生, 溝上 哲也, 竹内 壽男, 吉田 誠",
-        "numbering": "15CB02A0"
-    },
-    {
-        "lecture_title": "電波・通信法規",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "山田 耕嗣",
-        "numbering": "15CB03A0"
-    },
-    {
-        "lecture_title": "電気計測",
-        "department": "工学部 電子情報通信工学科",
-        "year": "1年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "藤村 真生",
-        "numbering": "15CC01A0"
-    },
-    {
-        "lecture_title": "電気磁気学III",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "安國 良平",
-        "numbering": "15CC02A0"
-    },
-    {
-        "lecture_title": "レーザ工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "神村 共住",
-        "numbering": "15CC03A0"
-    },
-    {
-        "lecture_title": "光エレクトロニクス",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "神村 共住",
-        "numbering": "15CC04A0"
-    },
-    {
-        "lecture_title": "電気回路III",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "吉田 福蔵",
-        "numbering": "15CC05A0"
-    },
-    {
-        "lecture_title": "アナログ電子回路",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "小池 一歩",
-        "numbering": "15CC06A0"
-    },
-    {
-        "lecture_title": "ディジタル電子回路",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "吉田 福蔵",
-        "numbering": "15CC07A0"
-    },
-    {
-        "lecture_title": "電子回路設計",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "小池 一歩",
-        "numbering": "15CC08A0"
-    },
-    {
-        "lecture_title": "固体エレクトロニクスII",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "月曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "安國 良平",
-        "numbering": "15CC09A0"
-    },
-    {
-        "lecture_title": "半導体デバイス基礎",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "金曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "廣芝 伸哉",
-        "numbering": "15CC10A0"
-    },
-    {
-        "lecture_title": "半導体デバイス工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "火曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "廣芝 伸哉",
-        "numbering": "15CC11A0"
-    },
-    {
-        "lecture_title": "制御工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "奥 宏史",
-        "numbering": "15CC13A0"
-    },
-    {
-        "lecture_title": "コンピュータシステム",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "原嶋 勝美",
-        "numbering": "15CD01A0"
-    },
-    {
-        "lecture_title": "コンピュータグラフィクス",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "藤村 真生",
-        "numbering": "15CD02A0"
-    },
-    {
-        "lecture_title": "メディア情報開発",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "藤村 真生",
-        "numbering": "15CD03A0"
-    },
-    {
-        "lecture_title": "ネットワーク設計",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日\\n木曜日",
-        "period": "4時限\\n4時限",
-        "credit": "2単位",
-        "person": "藤村 真生",
-        "numbering": "15CD04A0"
-    },
-    {
-        "lecture_title": "ディジタル信号処理",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "奥 宏史",
-        "numbering": "15CD05A0"
-    },
-    {
-        "lecture_title": "伝送理論",
-        "department": "工学部 電子情報通信工学科",
-        "year": "2年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "周 虹",
-        "numbering": "15CD06A0"
-    },
-    {
-        "lecture_title": "通信方式I",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "熊本 和夫",
-        "numbering": "15CD07A0"
-    },
-    {
-        "lecture_title": "通信方式II",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "熊本 和夫",
-        "numbering": "15CD08A0"
-    },
-    {
-        "lecture_title": "ネットワーク工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "火曜日",
-        "period": "2時限",
-        "credit": "2単位",
-        "person": "熊本 和夫",
-        "numbering": "15CD09A0"
-    },
-    {
-        "lecture_title": "電磁波工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "水曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "田村 安彦",
-        "numbering": "15CD10A0"
-    },
-    {
-        "lecture_title": "無線通信工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "金曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "川上 雅士",
-        "numbering": "15CD11A0"
-    },
-    {
-        "lecture_title": "情報理論",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "前期",
-        "dow": "水曜日",
-        "period": "3時限",
-        "credit": "2単位",
-        "person": "周 虹",
-        "numbering": "15CD12A0"
-    },
-    {
-        "lecture_title": "映像・音響工学",
-        "department": "工学部 電子情報通信工学科",
-        "year": "3年次",
-        "term": "後期",
-        "dow": "木曜日",
-        "period": "1時限",
-        "credit": "2単位",
-        "person": "重里 達郎",
-        "numbering": "15CD13A0"
     },
     {
         "lecture_title": "卒業研究",
@@ -22506,17 +21901,6 @@
         "numbering": "3BCB12K0"
     },
     {
-        "lecture_title": "建築環境工学I",
-        "department": "ロボティクス&デザイン工学部 空間デザイン学科",
-        "year": "2年次",
-        "term": "前期",
-        "dow": "月曜日",
-        "period": "4時限",
-        "credit": "2単位",
-        "person": "坂口 佳史",
-        "numbering": "3BCB13K0"
-    },
-    {
         "lecture_title": "建築環境工学II",
         "department": "ロボティクス&デザイン工学部 空間デザイン学科",
         "year": "2年次",
@@ -23111,17 +22495,6 @@
         "numbering": "3CCA06L0"
     },
     {
-        "lecture_title": "ディジタル電子回路【前半】",
-        "department": "ロボティクス&デザイン工学部 ロボット工学科",
-        "year": "2年次",
-        "term": "前期(前半)",
-        "dow": "月曜日\\n水曜日",
-        "period": "2時限\\n4時限",
-        "credit": "2単位",
-        "person": "松井 哲也",
-        "numbering": "3CCA07L0"
-    },
-    {
         "lecture_title": "基礎機械力学【後半】",
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "2年次",
@@ -23148,8 +22521,8 @@
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "1年次",
         "term": "後期(後半)",
-        "dow": "火曜日\\n木曜日",
-        "period": "3時限\\n3時限",
+        "dow": "水曜日\\n金曜日",
+        "period": "4時限\\n4時限",
         "credit": "2単位",
         "person": "越智 徹",
         "numbering": "3CCB01L0"
@@ -23544,8 +22917,8 @@
         "department": "ロボティクス&デザイン工学部 ロボット工学科",
         "year": "1年次",
         "term": "後期(後半)",
-        "dow": "火曜日\\n木曜日",
-        "period": "3時限\\n3時限",
+        "dow": "水曜日\\n金曜日",
+        "period": "4時限\\n4時限",
         "credit": "2単位",
         "person": "越智 徹",
         "numbering": "3CCH01L0"
@@ -25861,6 +25234,17 @@
         "numbering": "52CB0100"
     },
     {
+        "lecture_title": "自然生態系特論",
+        "department": "工学研究科 化学・環境・生命工学専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "4時限",
+        "credit": "2単位",
+        "person": "河村 耕史",
+        "numbering": "52CB0200"
+    },
+    {
         "lecture_title": "資源リサイクル工学特論",
         "department": "工学研究科 化学・環境・生命工学専攻",
         "year": "1年次",
@@ -25892,6 +25276,17 @@
         "credit": "2単位",
         "person": "粟田 貴宣",
         "numbering": "52CB0500"
+    },
+    {
+        "lecture_title": "環境計測特論",
+        "department": "工学研究科 化学・環境・生命工学専攻",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "水曜日",
+        "period": "2時限",
+        "credit": "2単位",
+        "person": "日下部 武敏",
+        "numbering": "52CB0600"
     },
     {
         "lecture_title": "計画数理特論",
@@ -33308,6 +32703,72 @@
         "numbering": "A3C038B0"
     },
     {
+        "lecture_title": "淀川学",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "谷 保孝, 内田 浩明, 三橋 雅子, 橋本 智昭, 杉浦 淳, 西山 由理花, 小川 芳也",
+        "numbering": "A3C038C0"
+    },
+    {
+        "lecture_title": "淀川学",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "谷 保孝, 内田 浩明, 見市 知昭, 三橋 雅子, 杉浦 淳, 西山 由理花, 小川 芳也",
+        "numbering": "A3C038D0"
+    },
+    {
+        "lecture_title": "淀川学",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "5時限",
+        "credit": "1単位",
+        "person": "谷 保孝, 小池 一歩, 杉浦 淳, 内田 浩明, 三橋 雅子, 西山 由理花, 小川 芳也",
+        "numbering": "A3C038F0"
+    },
+    {
+        "lecture_title": "淀川学",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "金曜日",
+        "period": "5時限",
+        "credit": "1単位",
+        "person": "谷 保孝, 藤森 啓一, 杉浦 淳, 内田 浩明, 三橋 雅子, 西山 由理花, 小川 芳也",
+        "numbering": "A3C038G0"
+    },
+    {
+        "lecture_title": "淀川学",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "金曜日",
+        "period": "5時限",
+        "credit": "1単位",
+        "person": "谷 保孝, 河村 耕史, 杉浦 淳, 内田 浩明, 三橋 雅子, 西山 由理花, 小川 芳也",
+        "numbering": "A3C038H0"
+    },
+    {
+        "lecture_title": "淀川学",
+        "department": "工学部 工学の基礎",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "谷 保孝, 内田 浩明, 松村 潔, 三橋 雅子, 杉浦 淳, 西山 由理花, 小川 芳也",
+        "numbering": "A3C038J0"
+    },
+    {
         "lecture_title": "工学倫理イ組",
         "department": "工学部 工学の基礎",
         "year": "3年次",
@@ -38104,6 +37565,94 @@
         "numbering": "C1C002D0"
     },
     {
+        "lecture_title": "発信英語I1組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "ソニア ストイコフスカ",
+        "numbering": "C1C003A0"
+    },
+    {
+        "lecture_title": "発信英語I2組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "トロミブリー リチャード",
+        "numbering": "C1C003B0"
+    },
+    {
+        "lecture_title": "発信英語I3組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "ソニア ストイコフスカ",
+        "numbering": "C1C003C0"
+    },
+    {
+        "lecture_title": "発信英語I4組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "前期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "トロミブリー リチャード",
+        "numbering": "C1C003D0"
+    },
+    {
+        "lecture_title": "発信英語II1組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "ソニア ストイコフスカ",
+        "numbering": "C1C004A0"
+    },
+    {
+        "lecture_title": "発信英語II2組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "2時限",
+        "credit": "1単位",
+        "person": "トロミブリー リチャード",
+        "numbering": "C1C004B0"
+    },
+    {
+        "lecture_title": "発信英語II3組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "ソニア ストイコフスカ",
+        "numbering": "C1C004C0"
+    },
+    {
+        "lecture_title": "発信英語II4組",
+        "department": "知的財産学部 教養領域",
+        "year": "1年次",
+        "term": "後期",
+        "dow": "月曜日",
+        "period": "1時限",
+        "credit": "1単位",
+        "person": "トロミブリー リチャード",
+        "numbering": "C1C004D0"
+    },
+    {
         "lecture_title": "資格英語I1組",
         "department": "知的財産学部 教養領域",
         "year": "2年次",
@@ -38894,6 +38443,17 @@
         "credit": "2単位",
         "person": "久田 歩",
         "numbering": "C3C001D0"
+    },
+    {
+        "lecture_title": "英語プレゼンテーションA組",
+        "department": "知的財産学部 展開領域",
+        "year": "3年次",
+        "term": "前期",
+        "dow": "火曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "ソニア ストイコフスカ",
+        "numbering": "C3C002A0"
     },
     {
         "lecture_title": "知的財産専門英語IA組",
@@ -42108,6 +41668,17 @@
         "numbering": "ETD0083A"
     },
     {
+        "lecture_title": "工業科教育法a B組",
+        "department": "教職科目",
+        "year": "3年次",
+        "term": "前期",
+        "dow": "土曜日",
+        "period": "3時限",
+        "credit": "2単位",
+        "person": "辰巳 育男",
+        "numbering": "ETD0083B"
+    },
+    {
         "lecture_title": "工業科教育法b",
         "department": "教職科目",
         "year": "3年次",
@@ -42966,6 +42537,17 @@
         "numbering": "M8CJ27A0"
     },
     {
+        "lecture_title": "ものづくりのためのデータサイエンス実践特論",
+        "department": "情報科学研究科 情報科学専攻",
+        "year": "1年次",
+        "term": "後期集中",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "1単位",
+        "person": "皆川 健多郎, 佐野 睦夫",
+        "numbering": "M8CJ28A0"
+    },
+    {
         "lecture_title": "マーケティングのためのデータサイエンス実践特論a",
         "department": "情報科学研究科 情報科学専攻",
         "year": "1年次",
@@ -42997,6 +42579,17 @@
         "credit": "1単位",
         "person": "荒木 英夫",
         "numbering": "M8CJ31A0"
+    },
+    {
+        "lecture_title": "デジタルツイン実践特論",
+        "department": "情報科学研究科 情報科学専攻",
+        "year": "1年次",
+        "term": "後期集中",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "1単位",
+        "person": "佐野 睦夫",
+        "numbering": "M8CJ32A0"
     },
     {
         "lecture_title": "インターンシップ",
@@ -43602,6 +43195,17 @@
         "credit": "1単位",
         "person": "小林 昭寛",
         "numbering": "MPAF02B0"
+    },
+    {
+        "lecture_title": "研究基礎",
+        "department": "知的財産研究科 知的財産専攻",
+        "year": "1年次",
+        "term": "後期集中",
+        "dow": "その他",
+        "period": "その他",
+        "credit": "1単位",
+        "person": "山中 弘美",
+        "numbering": "MPAF02C0"
     },
     {
         "lecture_title": "研究基礎",
