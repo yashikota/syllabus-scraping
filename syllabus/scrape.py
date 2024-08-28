@@ -18,17 +18,21 @@ class Scraping:
         self._timeout: int = 10.0
         self._invalid_data: int = 6
         self._scraped_data: dict = dict()
+        self._try_limit: int = 5
 
     async def _get(self, client, data, semaphore):
         async with semaphore:
             department, url, dow, period = data.split(",")
-            try:
-                res = await client.get(url, timeout=self._timeout)
-                print(department, url, res.status_code)
-            except Exception as e:
-                print(f"Error: {e}, {url}")
-                res = await client.get(url, timeout=self._timeout)
-            finally:
+            retries = 0
+            while retries < self._try_limit:
+                try:
+                    res = await client.get(url, timeout=self._timeout)
+                    print(department, url, res.status_code)
+                    break
+                except Exception as e:
+                    print(f"Error: {e}, {url} (Attempt {retries})")
+                    retries += 1
+
                 text = normalize(res.text)
 
                 # 教科書と参考書が記載されているか判定
