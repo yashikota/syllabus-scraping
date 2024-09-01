@@ -1,6 +1,7 @@
 """
 データを変換
 """
+
 import pandas
 
 

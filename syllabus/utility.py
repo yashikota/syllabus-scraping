@@ -1,6 +1,7 @@
 """
 その他
 """
+
 import json
 import unicodedata
 import urllib.request

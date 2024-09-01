@@ -3,7 +3,7 @@
 ## scraping
 
 ```sh
-YEAR={YEAR} docker compose up
+YEAR={YEAR} docker compose up --build
 ```
 
 ## keyと日本語訳の対応表

@@ -9,6 +9,12 @@ def main():
     if year == "":
         print("スクレイピングする年度を指定してください")
         return
+    if not year.isdecimal():
+        print("年度は数値で指定してください")
+        return
+    if int(year) < 2013:
+        print("2013年以降の年度を指定してください")
+        return
 
     # 学部/学科, URL, 曜日, 時限 のリストを取得
     data: list[str] = list(syllabus.get_data(year))
