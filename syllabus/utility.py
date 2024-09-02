@@ -1,6 +1,7 @@
 """
 その他
 """
+
 import json
 import unicodedata
 import urllib.request
@@ -47,8 +48,8 @@ def table_output(year: str, data: dict) -> None:
                 "department": data[key]["department"],
                 "year": data[key]["year"],
                 "term": data[key]["term"],
-                "dow": (data[key]["dow"]).replace("曜日 ", "曜日\\n"),
-                "period": (data[key]["period"]).replace("時限 ", "時限\\n"),
+                "dow": (data[key]["dow"]),
+                "period": (data[key]["period"]),
                 "credit": data[key]["credit"],
                 "person": data[key]["person"],
                 "numbering": data[key]["numbering"],
