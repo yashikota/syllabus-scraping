@@ -22,9 +22,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set year
+        id: set-year
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "YEAR=${{ github.event.inputs.year }}" >> $GITHUB_ENV
+          else
+            echo "YEAR=$(date +%Y)" >> $GITHUB_ENV
+          fi
+
       - name: Run
         run: |
-          YEAR=${{ github.event.inputs.year }} docker compose up
+          YEAR=${{ env.YEAR }} docker compose up
 
       - name: Commit
         run: |
