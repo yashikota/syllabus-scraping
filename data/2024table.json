@@ -69326,6 +69326,23 @@
         "numbering": "M8CJ14A0"
     },
     {
+        "lecture_title": "情報セキュリティ特論II",
+        "department": "情報科学研究科 情報科学専攻",
+        "year": "1年次",
+        "term": "後期(後半)",
+        "dow": [
+            "月曜日"
+        ],
+        "period": [
+            "2時限"
+        ],
+        "credit": "1単位",
+        "person": [
+            "小島 英春"
+        ],
+        "numbering": "M8CJ15A0"
+    },
+    {
         "lecture_title": "データサイエンス実践特論",
         "department": "情報科学研究科 情報科学専攻",
         "year": "1年次",
