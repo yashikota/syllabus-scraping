@@ -10589,23 +10589,6 @@
         ],
         "credit": "0単位",
         "person": [
-            "\"\""
-        ],
-        "numbering": "1BA001B2"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報システム学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "0単位",
-        "person": [
             "中西 知嘉子"
         ],
         "numbering": "1BA001C0"
@@ -10864,23 +10847,6 @@
             "濵田 悦生"
         ],
         "numbering": "1BA001H2"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報システム学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "0単位",
-        "person": [
-            "\"\""
-        ],
-        "numbering": "1BA001I0"
     },
     {
         "lecture_title": "卒業研究",
@@ -13010,23 +12976,6 @@
             "濵田 悦生"
         ],
         "numbering": "1BAK02H2"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報システム学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "4単位",
-        "person": [
-            "\"\""
-        ],
-        "numbering": "1BAK02I0"
     },
     {
         "lecture_title": "卒業研究",
@@ -16441,23 +16390,6 @@
         ],
         "credit": "0単位",
         "person": [
-            "\"\""
-        ],
-        "numbering": "1CA001B2"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "0単位",
-        "person": [
             "中西 知嘉子"
         ],
         "numbering": "1CA001C0"
@@ -16716,23 +16648,6 @@
             "濵田 悦生"
         ],
         "numbering": "1CA001H2"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "0単位",
-        "person": [
-            "\"\""
-        ],
-        "numbering": "1CA001I0"
     },
     {
         "lecture_title": "卒業研究",
@@ -18555,23 +18470,6 @@
             "荒木 英夫"
         ],
         "numbering": "1CAK02B1"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 情報メディア学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "4単位",
-        "person": [
-            "\"\""
-        ],
-        "numbering": "1CAK02B2"
     },
     {
         "lecture_title": "卒業研究",
@@ -25290,23 +25188,6 @@
         ],
         "credit": "0単位",
         "person": [
-            "\"\""
-        ],
-        "numbering": "1FA001B2"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 ネットワークデザイン学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "0単位",
-        "person": [
             "中西 知嘉子"
         ],
         "numbering": "1FA001C0"
@@ -29865,23 +29746,6 @@
             "ズオン クアン タン"
         ],
         "numbering": "1GAP01F5"
-    },
-    {
-        "lecture_title": "卒業研究",
-        "department": "情報科学部 データサイエンス学科",
-        "year": "\"\"",
-        "term": "通年(卒研)",
-        "dow": [
-            "その他"
-        ],
-        "period": [
-            "その他"
-        ],
-        "credit": "0単位",
-        "person": [
-            "久保田 匠"
-        ],
-        "numbering": "1GAP01F6"
     },
     {
         "lecture_title": "データ構造とアルゴリズム",
