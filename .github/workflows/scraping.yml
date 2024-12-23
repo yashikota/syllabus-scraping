@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       year:
-        description: 'Year to scraping syllabus for'
+        description: 'Year to scrape syllabus for'
         required: true
         type: number
 
@@ -25,18 +25,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set current date as env variable
+      - name: Set current date and calculate fiscal year
         env:
           TZ: "Asia/Tokyo"
-        run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: |
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+          CURRENT_YEAR=$(date +'%Y')
+          CURRENT_MONTH=$(date +'%m')
+          if [ "$CURRENT_MONTH" -lt 4 ]; then
+            FISCAL_YEAR=$((CURRENT_YEAR - 1))
+          else
+            FISCAL_YEAR=$CURRENT_YEAR
+          fi
+          echo "CURRENT_DATE=$CURRENT_DATE" >> $GITHUB_ENV
+          echo "FISCAL_YEAR=$FISCAL_YEAR" >> $GITHUB_ENV
 
-      - name: Set year
+      - name: Set year from inputs or calculated fiscal year
         id: set-year
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "YEAR=${{ github.event.inputs.year }}" >> $GITHUB_ENV
           else
-            echo "YEAR=$(date +%Y)" >> $GITHUB_ENV
+            echo "YEAR=${{ env.FISCAL_YEAR }}" >> $GITHUB_ENV
           fi
 
       - name: Run
@@ -59,8 +69,8 @@ jobs:
       - name: Create Release and Upload Assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RELEASE_TAG: Scraping-${{ env.CURRENT_DATE }}
-          FILE: data/${{ env.YEAR }}.json
+          RELEASE_TAG=Scraping-${{ env.CURRENT_DATE }}
+          FILE=data/${{ env.YEAR }}.json
         uses: softprops/action-gh-release@v2
         with:
           files: ${{ env.FILE }}
