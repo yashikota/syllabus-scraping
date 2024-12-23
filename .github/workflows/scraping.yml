@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "0 10 * * 0" # 毎週日曜日19時に実行(JST)
     # - cron: "0 10 * * *" # 毎日19時に実行(JST)
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
     inputs:
       year:
@@ -14,13 +12,23 @@ on:
         type: number
 
 jobs:
-  build:
+  job:
+    name: build-and-deploy
     runs-on: ubuntu-latest
     timeout-minutes: 60
+
+    permissions:
+      contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Set current datetime as env variable
+        env:
+          TZ: "Asia/Tokyo"
+        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
       - name: Set year
         id: set-year
@@ -47,6 +55,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git push origin master
+
+      - name: Create Release and Upload Assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_TAG: Scraping-${{ env.CURRENT_DATETIME }}
+          FILE: data/${{ env.YEAR }}.json
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ${{ env.FILE }}
+          tag_name: ${{ env.RELEASE_TAG }}
+          name: ${{ env.RELEASE_TAG }}
+          draft: false
+          prerelease: false
 
       - name: Deploy
         uses: fjogeleit/http-request-action@v1
