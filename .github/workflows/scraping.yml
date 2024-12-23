@@ -28,7 +28,7 @@ jobs:
       - name: Set current datetime as env variable
         env:
           TZ: "Asia/Tokyo"
-        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Set year
         id: set-year
