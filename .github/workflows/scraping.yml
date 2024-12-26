@@ -69,8 +69,8 @@ jobs:
       - name: Create Release and Upload Assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RELEASE_TAG=Scraping-${{ env.CURRENT_DATE }}
-          FILE=data/${{ env.YEAR }}.json
+          RELEASE_TAG: Scraping-${{ env.CURRENT_DATE }}
+          FILE: data/${{ env.YEAR }}.json
         uses: softprops/action-gh-release@v2
         with:
           files: ${{ env.FILE }}
