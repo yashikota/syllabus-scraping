@@ -13,7 +13,7 @@ on:
 
 jobs:
   job:
-    name: scraping-and-deploy
+    name: scraping
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
@@ -53,23 +53,10 @@ jobs:
         run: |
           YEAR=${{ env.YEAR }} docker compose up
 
-      - name: Commit
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update data"
-
-      - name: Push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push origin master
-
       - name: Create Release and Upload Assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RELEASE_TAG: Scraping-${{ env.CURRENT_DATE }}
+          RELEASE_TAG: syllabus-${{ env.CURRENT_DATE }}
           FILE: data/${{ env.YEAR }}.json
         uses: softprops/action-gh-release@v2
         with:
